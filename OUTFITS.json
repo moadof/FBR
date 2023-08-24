@@ -1,0 +1,2792 @@
+[
+    {
+        "item_name": "Gold Blooded Ace",
+        "img_preview": "https://fortnite.gg/img/items/9128/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9128/video.mp4?1",
+        "amount": "1,000"
+    },
+    {
+        "item_name": "Becky Lynch",
+        "img_preview": "https://fortnite.gg/img/items/10062/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/10062/video.mp4?2",
+        "amount": "1,600"
+    },
+    {
+        "item_name": "Bianca Belair",
+        "img_preview": "https://fortnite.gg/img/items/10059/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/10059/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "FNCS Renegade",
+        "img_preview": "https://fortnite.gg/img/items/9950/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9950/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Oleander",
+        "img_preview": "https://fortnite.gg/img/items/10012/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/10012/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Galaxy Crossfade",
+        "img_preview": "https://fortnite.gg/img/items/9957/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9957/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Megumi Fushiguro",
+        "img_preview": "https://fortnite.gg/img/items/10014/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/10014/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Nobara Kugisaki",
+        "img_preview": "https://fortnite.gg/img/items/10013/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/10013/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Satoru Gojo",
+        "img_preview": "https://fortnite.gg/img/items/10010/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/10010/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Streetwear Yuji Itadori",
+        "img_preview": "https://fortnite.gg/img/items/10008/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/10008/video.mp4?1",
+        "amount": "Curse!)"
+    },
+    {
+        "item_name": "Yuji Itadori",
+        "img_preview": "https://fortnite.gg/img/items/10007/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/10007/video.mp4?1",
+        "amount": "Curse!)"
+    },
+    {
+        "item_name": "Haxsaur",
+        "img_preview": "https://fortnite.gg/img/items/10011/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/10011/video.mp4?1",
+        "amount": "0"
+    },
+    {
+        "item_name": "Harmony Lee",
+        "img_preview": "https://fortnite.gg/img/items/10009/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/10009/video.mp4?1",
+        "amount": "0"
+    },
+    {
+        "item_name": "Jittershock",
+        "img_preview": "https://fortnite.gg/img/items/9958/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9958/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Core Knight Talus",
+        "img_preview": "https://fortnite.gg/img/items/9948/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9948/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Prince Orin",
+        "img_preview": "https://fortnite.gg/img/items/9954/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9954/video.mp4?1",
+        "amount": "#33)"
+    },
+    {
+        "item_name": "Princess Lexa",
+        "img_preview": "https://fortnite.gg/img/items/9951/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9951/video.mp4?1",
+        "amount": "#33)"
+    },
+    {
+        "item_name": "Terminator",
+        "img_preview": "https://fortnite.gg/img/items/9989/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9989/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Elite Striker Sephira",
+        "img_preview": "https://fortnite.gg/img/items/9949/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9949/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Vikora",
+        "img_preview": "https://fortnite.gg/img/items/9955/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9955/video.mp4?1",
+        "amount": "PACK)"
+    },
+    {
+        "item_name": "Philip J. Fry",
+        "img_preview": "https://fortnite.gg/img/items/9956/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9956/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Turanga Leela",
+        "img_preview": "https://fortnite.gg/img/items/9953/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9953/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Bender Bending Rodr\u00edguez",
+        "img_preview": "https://fortnite.gg/img/items/9952/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9952/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Nord Warrior",
+        "img_preview": "https://fortnite.gg/img/items/9929/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9929/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Chaos Explorer",
+        "img_preview": "https://fortnite.gg/img/items/9878/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9878/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Opal",
+        "img_preview": "https://fortnite.gg/img/items/9874/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9874/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Purradise Meowscles",
+        "img_preview": "https://fortnite.gg/img/items/9707/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9707/video.mp4?1",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Razor Rae",
+        "img_preview": "https://fortnite.gg/img/items/9876/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9876/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Breezabelle",
+        "img_preview": "https://fortnite.gg/img/items/9875/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9875/video.mp4?2",
+        "amount": "#32)"
+    },
+    {
+        "item_name": "Court Queen Erisa",
+        "img_preview": "https://fortnite.gg/img/items/9877/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9877/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Clip",
+        "img_preview": "https://fortnite.gg/img/items/9630/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9630/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Volpez",
+        "img_preview": "https://fortnite.gg/img/items/9072/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9072/video.mp4?1",
+        "amount": "5)"
+    },
+    {
+        "item_name": "Yennefer of Vengerberg",
+        "img_preview": "https://fortnite.gg/img/items/9853/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9853/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Ciri",
+        "img_preview": "https://fortnite.gg/img/items/9854/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9854/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Airie",
+        "img_preview": "https://fortnite.gg/img/items/9833/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9833/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Maxxed Out Max",
+        "img_preview": "https://fortnite.gg/img/items/9832/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9832/video.mp4?1",
+        "amount": "1,800"
+    },
+    {
+        "item_name": "Combat Tech Jules",
+        "img_preview": "https://fortnite.gg/img/items/9629/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9629/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Designer Tsuki",
+        "img_preview": "https://fortnite.gg/img/items/9710/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9710/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Vivi Chroma",
+        "img_preview": "https://fortnite.gg/img/items/9631/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9631/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Kimiko Five-Tails",
+        "img_preview": "https://fortnite.gg/img/items/9715/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9715/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Innovator Slone",
+        "img_preview": "https://fortnite.gg/img/items/9711/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9711/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Era",
+        "img_preview": "https://fortnite.gg/img/items/9714/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9714/video.mp4?1",
+        "amount": "1"
+    },
+    {
+        "item_name": "Optimus Prime",
+        "img_preview": "https://fortnite.gg/img/items/9712/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9712/video.mp4?1",
+        "amount": "14"
+    },
+    {
+        "item_name": "Trace",
+        "img_preview": "https://fortnite.gg/img/items/9716/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9716/video.mp4?2",
+        "amount": "2"
+    },
+    {
+        "item_name": "Relik",
+        "img_preview": "https://fortnite.gg/img/items/9713/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9713/video.mp4?3",
+        "amount": "6"
+    },
+    {
+        "item_name": "Lorenzo",
+        "img_preview": "https://fortnite.gg/img/items/9709/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9709/video.mp4?2",
+        "amount": "10"
+    },
+    {
+        "item_name": "Rian",
+        "img_preview": "https://fortnite.gg/img/items/9708/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9708/video.mp4?2",
+        "amount": "4"
+    },
+    {
+        "item_name": "Mariposa",
+        "img_preview": "https://fortnite.gg/img/items/9706/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9706/video.mp4?2",
+        "amount": "8"
+    },
+    {
+        "item_name": "Optimus Primal",
+        "img_preview": "https://fortnite.gg/img/items/9691/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9691/video.mp4?1",
+        "amount": "1,600"
+    },
+    {
+        "item_name": "Prefect Patroller",
+        "img_preview": "https://fortnite.gg/img/items/9670/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9670/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Studious Scout",
+        "img_preview": "https://fortnite.gg/img/items/9669/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9669/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Ace Academic",
+        "img_preview": "https://fortnite.gg/img/items/9668/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9668/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Striker Senpai",
+        "img_preview": "https://fortnite.gg/img/items/9667/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9667/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Sporty Skirmisher",
+        "img_preview": "https://fortnite.gg/img/items/9666/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9666/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Rebel Rival",
+        "img_preview": "https://fortnite.gg/img/items/9665/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9665/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Midterm Maverick",
+        "img_preview": "https://fortnite.gg/img/items/9664/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9664/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Victory Valedictorian",
+        "img_preview": "https://fortnite.gg/img/items/9663/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9663/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Culture Club Commander",
+        "img_preview": "https://fortnite.gg/img/items/9662/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9662/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Varsity Vanguard",
+        "img_preview": "https://fortnite.gg/img/items/9661/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9661/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Styx",
+        "img_preview": "https://fortnite.gg/img/items/9653/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9653/video.mp4?1",
+        "amount": "#31)"
+    },
+    {
+        "item_name": "Spider-Man 2099",
+        "img_preview": "https://fortnite.gg/img/items/9657/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9657/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Spider-Man (Miles Morales)",
+        "img_preview": "https://fortnite.gg/img/items/9656/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9656/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Crossheart",
+        "img_preview": "https://fortnite.gg/img/items/9627/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9627/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Underworld Desdemona",
+        "img_preview": "https://fortnite.gg/img/items/9628/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9628/video.mp4?1",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Goku Black",
+        "img_preview": "https://fortnite.gg/img/items/9614/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9614/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Championship Aura",
+        "img_preview": "https://fortnite.gg/img/items/9603/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9603/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Wendell",
+        "img_preview": "https://fortnite.gg/img/items/9455/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9455/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Frenzied Fighter",
+        "img_preview": "https://fortnite.gg/img/items/9559/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9559/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Convergence Captain",
+        "img_preview": "https://fortnite.gg/img/items/9558/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9558/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Spire Spy",
+        "img_preview": "https://fortnite.gg/img/items/9557/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9557/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Stealthy Surveyor",
+        "img_preview": "https://fortnite.gg/img/items/9556/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9556/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Misty Mercenary",
+        "img_preview": "https://fortnite.gg/img/items/9555/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9555/video.mp4?2",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Sandy Scout",
+        "img_preview": "https://fortnite.gg/img/items/9553/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9553/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Craggy Champion",
+        "img_preview": "https://fortnite.gg/img/items/9552/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9552/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Slurp Soldier",
+        "img_preview": "https://fortnite.gg/img/items/9551/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9551/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Holly Hero",
+        "img_preview": "https://fortnite.gg/img/items/9550/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9550/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Agency Ace",
+        "img_preview": "https://fortnite.gg/img/items/9549/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9549/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Captain Hypatia",
+        "img_preview": "https://fortnite.gg/img/items/9560/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9560/video.mp4?1",
+        "amount": "PACK)"
+    },
+    {
+        "item_name": "212th Battalion Trooper",
+        "img_preview": "https://fortnite.gg/img/items/9548/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9548/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Coruscant Guard",
+        "img_preview": "https://fortnite.gg/img/items/9547/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9547/video.mp4?1",
+        "amount": "Force)"
+    },
+    {
+        "item_name": "Ahsoka's Clone Trooper",
+        "img_preview": "https://fortnite.gg/img/items/9546/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9546/video.mp4?1",
+        "amount": "Force)"
+    },
+    {
+        "item_name": "Wolf Pack Trooper",
+        "img_preview": "https://fortnite.gg/img/items/9545/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9545/video.mp4?1",
+        "amount": "Force)"
+    },
+    {
+        "item_name": "501st Trooper",
+        "img_preview": "https://fortnite.gg/img/items/9544/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9544/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Clone Trooper",
+        "img_preview": "https://fortnite.gg/img/items/9543/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9543/video.mp4?1",
+        "amount": "Force"
+    },
+    {
+        "item_name": "Darth Maul",
+        "img_preview": "https://fortnite.gg/img/items/9542/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9542/video.mp4?1",
+        "amount": "Force)"
+    },
+    {
+        "item_name": "Padm\u00e9 Amidala",
+        "img_preview": "https://fortnite.gg/img/items/9528/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9528/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Anakin Skywalker",
+        "img_preview": "https://fortnite.gg/img/items/9521/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9521/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Dahlia",
+        "img_preview": "https://fortnite.gg/img/items/9452/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9452/video.mp4?1",
+        "amount": "#30)"
+    },
+    {
+        "item_name": "Serenade",
+        "img_preview": "https://fortnite.gg/img/items/9453/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9453/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Koi Agent Chigusa",
+        "img_preview": "https://fortnite.gg/img/items/9454/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9454/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Koi Brawler Zero",
+        "img_preview": "https://fortnite.gg/img/items/9449/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9449/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Koi Striker Envoy",
+        "img_preview": "https://fortnite.gg/img/items/9448/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9448/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Renegade Runner",
+        "img_preview": "https://fortnite.gg/img/items/9450/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9450/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Sunset Alto",
+        "img_preview": "https://fortnite.gg/img/items/9498/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9498/video.mp4?2",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Desert Dawn Lyric",
+        "img_preview": "https://fortnite.gg/img/items/9497/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9497/video.mp4?2",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Ani Konda",
+        "img_preview": "https://fortnite.gg/img/items/9451/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9451/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Captain Levi",
+        "img_preview": "https://fortnite.gg/img/items/9436/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9436/video.mp4?3",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Mikasa Ackermann",
+        "img_preview": "https://fortnite.gg/img/items/9434/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9434/video.mp4?3",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Eren Jaeger",
+        "img_preview": "https://fortnite.gg/img/items/9288/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9288/video.mp4?1",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Festival Lace",
+        "img_preview": "https://fortnite.gg/img/items/9408/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9408/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Drop Dee",
+        "img_preview": "https://fortnite.gg/img/items/9407/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9407/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Miss Bunny Penny",
+        "img_preview": "https://fortnite.gg/img/items/9405/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9405/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Triarch Nox",
+        "img_preview": "https://fortnite.gg/img/items/9409/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9409/video.mp4?1",
+        "amount": "#29)"
+    },
+    {
+        "item_name": "Barrett",
+        "img_preview": "https://fortnite.gg/img/items/9406/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9406/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Tegan",
+        "img_preview": "https://fortnite.gg/img/items/9226/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9226/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Claire Redfield",
+        "img_preview": "https://fortnite.gg/img/items/9390/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9390/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Leon S. Kennedy",
+        "img_preview": "https://fortnite.gg/img/items/9389/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9389/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Rogue Gunner",
+        "img_preview": "https://fortnite.gg/img/items/9294/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/9294/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Rogue Navigator",
+        "img_preview": "https://fortnite.gg/img/items/9293/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9293/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Endless Ned",
+        "img_preview": "https://fortnite.gg/img/items/9132/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9132/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Mizuki",
+        "img_preview": "https://fortnite.gg/img/items/9296/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9296/video.mp4?2",
+        "amount": "13"
+    },
+    {
+        "item_name": "Renzo the Destroyer",
+        "img_preview": "https://fortnite.gg/img/items/9291/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9291/video.mp4?2",
+        "amount": "1"
+    },
+    {
+        "item_name": "Highwire",
+        "img_preview": "https://fortnite.gg/img/items/9297/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9297/video.mp4?3",
+        "amount": "11"
+    },
+    {
+        "item_name": "Mystica",
+        "img_preview": "https://fortnite.gg/img/items/9295/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9295/video.mp4?1",
+        "amount": "7"
+    },
+    {
+        "item_name": "Thunder",
+        "img_preview": "https://fortnite.gg/img/items/9292/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9292/video.mp4?2",
+        "amount": "5"
+    },
+    {
+        "item_name": "Stray",
+        "img_preview": "https://fortnite.gg/img/items/9290/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9290/video.mp4?1",
+        "amount": "9"
+    },
+    {
+        "item_name": "Imani",
+        "img_preview": "https://fortnite.gg/img/items/9289/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9289/video.mp4?2",
+        "amount": "3"
+    },
+    {
+        "item_name": "Swamp Knight",
+        "img_preview": "https://fortnite.gg/img/items/9228/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9228/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Adonis Creed",
+        "img_preview": "https://fortnite.gg/img/items/9267/icon.png?6",
+        "item_video": "https://fnggcdn.com/items/9267/video.mp4?1",
+        "amount": "1,800"
+    },
+    {
+        "item_name": "Championship Jonesy",
+        "img_preview": "https://fortnite.gg/img/items/9131/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/9131/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Rift Knight Kieran",
+        "img_preview": "https://fortnite.gg/img/items/9227/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9227/video.mp4?1",
+        "amount": "#28)"
+    },
+    {
+        "item_name": "Flakes Power",
+        "img_preview": "https://fortnite.gg/img/items/9215/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9215/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "BriteStar",
+        "img_preview": "https://fortnite.gg/img/items/9206/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9206/video.mp4?1",
+        "amount": "1,800"
+    },
+    {
+        "item_name": "Captain America - Sam Wilson (MCU)",
+        "img_preview": "https://fortnite.gg/img/items/9205/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9205/video.mp4?1",
+        "amount": "2,000"
+    },
+    {
+        "item_name": "Axion Sentinel",
+        "img_preview": "https://fortnite.gg/img/items/9127/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9127/video.mp4?1",
+        "amount": "PACK)"
+    },
+    {
+        "item_name": "Alias",
+        "img_preview": "https://fortnite.gg/img/items/9198/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9198/video.mp4?2",
+        "amount": "0"
+    },
+    {
+        "item_name": "Caper",
+        "img_preview": "https://fortnite.gg/img/items/9197/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9197/video.mp4?2",
+        "amount": "0"
+    },
+    {
+        "item_name": "Folly",
+        "img_preview": "https://fortnite.gg/img/items/9120/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/9120/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Geralt of Rivia",
+        "img_preview": "https://fortnite.gg/img/items/8765/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8765/video.mp4?4",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Chase",
+        "img_preview": "https://fortnite.gg/img/items/9070/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9070/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Sylvie",
+        "img_preview": "https://fortnite.gg/img/items/9071/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9071/video.mp4?1",
+        "amount": "#27)"
+    },
+    {
+        "item_name": "Piccolo",
+        "img_preview": "https://fortnite.gg/img/items/9069/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9069/video.mp4?1",
+        "amount": "1,800"
+    },
+    {
+        "item_name": "Son Gohan",
+        "img_preview": "https://fortnite.gg/img/items/9068/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/9068/video.mp4?1",
+        "amount": "1,800"
+    },
+    {
+        "item_name": "Lucien West",
+        "img_preview": "https://fortnite.gg/img/items/9008/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9008/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "The Rogue LAROI",
+        "img_preview": "https://fortnite.gg/img/items/9041/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9041/video.mp4?1",
+        "amount": "2,000"
+    },
+    {
+        "item_name": "The Kid LAROI",
+        "img_preview": "https://fortnite.gg/img/items/9040/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/9040/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Isaac Clarke",
+        "img_preview": "https://fortnite.gg/img/items/9035/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9035/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Rift Warden Stellan",
+        "img_preview": "https://fortnite.gg/img/items/9007/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/9007/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Hana",
+        "img_preview": "https://fortnite.gg/img/items/8906/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/8906/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Keleritas",
+        "img_preview": "https://fortnite.gg/img/items/8898/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8898/video.mp4?1",
+        "amount": "PACK)"
+    },
+    {
+        "item_name": "Graveheart",
+        "img_preview": "https://fortnite.gg/img/items/8905/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8905/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Gildhart",
+        "img_preview": "https://fortnite.gg/img/items/8992/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8992/video.mp4?1",
+        "amount": "#26)"
+    },
+    {
+        "item_name": "Hoplite Giannis",
+        "img_preview": "https://fortnite.gg/img/items/8981/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/8981/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Giannis Antetokounmpo",
+        "img_preview": "https://fortnite.gg/img/items/8980/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8980/video.mp4?1",
+        "amount": "2,000"
+    },
+    {
+        "item_name": "Snowdancer",
+        "img_preview": "https://fortnite.gg/img/items/8897/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/8897/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Lumi Jellie",
+        "img_preview": "https://fortnite.gg/img/items/8901/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8901/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "All Might",
+        "img_preview": "https://fortnite.gg/img/items/8960/icon.png?6",
+        "item_video": "https://fnggcdn.com/items/8960/video.mp4?1",
+        "amount": "2,000"
+    },
+    {
+        "item_name": "Katsuki Bakugo",
+        "img_preview": "https://fortnite.gg/img/items/8959/icon.png?6",
+        "item_video": "https://fnggcdn.com/items/8959/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Ochaco Uraraka",
+        "img_preview": "https://fortnite.gg/img/items/8958/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/8958/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Izuku Midoriya",
+        "img_preview": "https://fortnite.gg/img/items/8957/icon.png?6",
+        "item_video": "https://fnggcdn.com/items/8957/video.mp4?1",
+        "amount": "1,600"
+    },
+    {
+        "item_name": "MrBeast6000",
+        "img_preview": "https://fortnite.gg/img/items/8903/icon.png?6",
+        "item_video": "https://fnggcdn.com/items/8903/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "MrBeast",
+        "img_preview": "https://fortnite.gg/img/items/8902/icon.png?6",
+        "item_video": "https://fnggcdn.com/items/8902/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Arctic Adeline",
+        "img_preview": "https://fortnite.gg/img/items/8904/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8904/video.mp4?1",
+        "amount": "2022"
+    },
+    {
+        "item_name": "Guff Gringle",
+        "img_preview": "https://fortnite.gg/img/items/8900/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8900/video.mp4?1",
+        "amount": "Gringle)"
+    },
+    {
+        "item_name": "Sled Ready Guff",
+        "img_preview": "https://fortnite.gg/img/items/8899/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8899/video.mp4?1",
+        "amount": "2022"
+    },
+    {
+        "item_name": "Jun-Hwan",
+        "img_preview": "https://fortnite.gg/img/items/8694/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8694/video.mp4?2",
+        "amount": "#19"
+    },
+    {
+        "item_name": "Mina Park",
+        "img_preview": "https://fortnite.gg/img/items/8707/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8707/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Winter Wonder Skye",
+        "img_preview": "https://fortnite.gg/img/items/8766/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/8766/video.mp4?2",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Hulk",
+        "img_preview": "https://fortnite.gg/img/items/8878/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/8878/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Doom Slayer",
+        "img_preview": "https://fortnite.gg/img/items/8777/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8777/video.mp4?2",
+        "amount": "5"
+    },
+    {
+        "item_name": "The Ageless",
+        "img_preview": "https://fortnite.gg/img/items/8764/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8764/video.mp4?3",
+        "amount": "13"
+    },
+    {
+        "item_name": "Nezumi",
+        "img_preview": "https://fortnite.gg/img/items/8762/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8762/video.mp4?2",
+        "amount": "9"
+    },
+    {
+        "item_name": "Massai",
+        "img_preview": "https://fortnite.gg/img/items/8780/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8780/video.mp4?3",
+        "amount": "3"
+    },
+    {
+        "item_name": "Selene",
+        "img_preview": "https://fortnite.gg/img/items/8779/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8779/video.mp4?3",
+        "amount": "1"
+    },
+    {
+        "item_name": "Helsie",
+        "img_preview": "https://fortnite.gg/img/items/8778/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8778/video.mp4?3",
+        "amount": "11"
+    },
+    {
+        "item_name": "Dusty",
+        "img_preview": "https://fortnite.gg/img/items/8763/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8763/video.mp4?4",
+        "amount": "7"
+    },
+    {
+        "item_name": "Colby",
+        "img_preview": "https://fortnite.gg/img/items/8706/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8706/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "FFC LeBron James",
+        "img_preview": "https://fortnite.gg/img/items/8746/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8746/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "FFC Neymar Jr",
+        "img_preview": "https://fortnite.gg/img/items/8745/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8745/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "FFC TheGrefg",
+        "img_preview": "https://fortnite.gg/img/items/8744/icon.png?6",
+        "item_video": "https://fnggcdn.com/items/8744/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "FFC Chloe Kim",
+        "img_preview": "https://fortnite.gg/img/items/8743/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8743/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "FFC Sparkplug",
+        "img_preview": "https://fortnite.gg/img/items/8747/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8747/video.mp4?2",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Joni the Red",
+        "img_preview": "https://fortnite.gg/img/items/8738/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8738/video.mp4?2",
+        "amount": "#25)"
+    },
+    {
+        "item_name": "Huntmaster Saber",
+        "img_preview": "https://fortnite.gg/img/items/8632/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8632/video.mp4?1",
+        "amount": "Bundle"
+    },
+    {
+        "item_name": "A Goat",
+        "img_preview": "https://fortnite.gg/img/items/8459/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/8459/video.mp4?3",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Glitch",
+        "img_preview": "https://fortnite.gg/img/items/8626/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8626/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Errant",
+        "img_preview": "https://fortnite.gg/img/items/8625/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8625/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Field Favorite",
+        "img_preview": "https://fortnite.gg/img/items/8704/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8704/video.mp4?3",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Net Protector",
+        "img_preview": "https://fortnite.gg/img/items/8703/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8703/video.mp4?3",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Penalty Patroller",
+        "img_preview": "https://fortnite.gg/img/items/8702/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8702/video.mp4?3",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Free Kick Maverick",
+        "img_preview": "https://fortnite.gg/img/items/8701/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8701/video.mp4?3",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Mighty Midfielder",
+        "img_preview": "https://fortnite.gg/img/items/8700/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8700/video.mp4?3",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Chip Challenger",
+        "img_preview": "https://fortnite.gg/img/items/8699/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8699/video.mp4?3",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Breakaway Boss",
+        "img_preview": "https://fortnite.gg/img/items/8698/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8698/video.mp4?3",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Goal Guardian",
+        "img_preview": "https://fortnite.gg/img/items/8697/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8697/video.mp4?3",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Tackle Titan",
+        "img_preview": "https://fortnite.gg/img/items/8696/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8696/video.mp4?3",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Red Card Renegade",
+        "img_preview": "https://fortnite.gg/img/items/8695/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8695/video.mp4?3",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Camille",
+        "img_preview": "https://fortnite.gg/img/items/8705/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8705/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Recon Champion",
+        "img_preview": "https://fortnite.gg/img/items/8633/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8633/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Dummy Supreme",
+        "img_preview": "https://fortnite.gg/img/items/8630/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8630/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Stadium Hero '92",
+        "img_preview": "https://fortnite.gg/img/items/8669/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8669/video.mp4?1",
+        "amount": "Bundle)"
+    },
+    {
+        "item_name": "Polo Prodigy",
+        "img_preview": "https://fortnite.gg/img/items/8668/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8668/video.mp4?1",
+        "amount": "Bundle)"
+    },
+    {
+        "item_name": "Ayida",
+        "img_preview": "https://fortnite.gg/img/items/8631/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8631/video.mp4?1",
+        "amount": "PACK)"
+    },
+    {
+        "item_name": "Salvador",
+        "img_preview": "https://fortnite.gg/img/items/8624/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8624/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Luke Skywalker",
+        "img_preview": "https://fortnite.gg/img/items/8629/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8629/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Han Solo",
+        "img_preview": "https://fortnite.gg/img/items/8628/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8628/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Leia Organa",
+        "img_preview": "https://fortnite.gg/img/items/8627/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8627/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "The Inkquisitor",
+        "img_preview": "https://fortnite.gg/img/items/8608/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8608/video.mp4?1",
+        "amount": "#24)"
+    },
+    {
+        "item_name": "The Herald",
+        "img_preview": "https://fortnite.gg/img/items/8338/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8338/video.mp4?2",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Chrome Punk",
+        "img_preview": "https://fortnite.gg/img/items/8559/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8559/video.mp4?1",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Remi",
+        "img_preview": "https://fortnite.gg/img/items/8555/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/8555/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Jack O'Sassin",
+        "img_preview": "https://fortnite.gg/img/items/8562/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8562/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Abyss",
+        "img_preview": "https://fortnite.gg/img/items/8557/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8557/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Ava",
+        "img_preview": "https://fortnite.gg/img/items/8564/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/8564/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Bonejamin",
+        "img_preview": "https://fortnite.gg/img/items/8558/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8558/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Vivica Saint",
+        "img_preview": "https://fortnite.gg/img/items/8556/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8556/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Ash Williams",
+        "img_preview": "https://fortnite.gg/img/items/8563/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8563/video.mp4?1",
+        "amount": "PACK)"
+    },
+    {
+        "item_name": "Ready Penny",
+        "img_preview": "https://fortnite.gg/img/items/8341/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8341/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Ricochet Rox",
+        "img_preview": "https://fortnite.gg/img/items/8340/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8340/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Golden Gear Midas",
+        "img_preview": "https://fortnite.gg/img/items/8339/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8339/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Black Adam",
+        "img_preview": "https://fortnite.gg/img/items/8531/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/8531/video.mp4?2",
+        "amount": "1,800"
+    },
+    {
+        "item_name": "Trespasser Defector",
+        "img_preview": "https://fortnite.gg/img/items/8554/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8554/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Queen Summer",
+        "img_preview": "https://fortnite.gg/img/items/8541/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8541/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Mr. Meeseeks",
+        "img_preview": "https://fortnite.gg/img/items/8540/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8540/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Order Remnant",
+        "img_preview": "https://fortnite.gg/img/items/8515/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8515/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Svenja",
+        "img_preview": "https://fortnite.gg/img/items/8472/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8472/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Undying Sorrow",
+        "img_preview": "https://fortnite.gg/img/items/8473/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8473/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Sinister Glare",
+        "img_preview": "https://fortnite.gg/img/items/8467/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8467/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Desdemona",
+        "img_preview": "https://fortnite.gg/img/items/8194/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8194/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Shady Zadie",
+        "img_preview": "https://fortnite.gg/img/items/8471/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8471/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Spycatcher Siren",
+        "img_preview": "https://fortnite.gg/img/items/8469/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8469/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Covert Cobalt",
+        "img_preview": "https://fortnite.gg/img/items/8468/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8468/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "X-23",
+        "img_preview": "https://fortnite.gg/img/items/8521/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8521/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Mad Mochi",
+        "img_preview": "https://fortnite.gg/img/items/8470/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8470/video.mp4?1",
+        "amount": "1,400"
+    },
+    {
+        "item_name": "Red Claw",
+        "img_preview": "https://fortnite.gg/img/items/8453/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8453/video.mp4?2",
+        "amount": "#23)"
+    },
+    {
+        "item_name": "Iron Man Zero",
+        "img_preview": "https://fortnite.gg/img/items/8442/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8442/video.mp4?2",
+        "amount": "BUNDLE)"
+    },
+    {
+        "item_name": "Veronika",
+        "img_preview": "https://fortnite.gg/img/items/8297/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8297/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "SypherPK",
+        "img_preview": "https://fortnite.gg/img/items/8334/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8334/video.mp4?1",
+        "amount": "1,800"
+    },
+    {
+        "item_name": "Spider-Gwen",
+        "img_preview": "https://fortnite.gg/img/items/8337/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8337/video.mp4?2",
+        "amount": "10"
+    },
+    {
+        "item_name": "Paradigm (Reality-659)",
+        "img_preview": "https://fortnite.gg/img/items/8335/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8335/video.mp4?3",
+        "amount": "1"
+    },
+    {
+        "item_name": "Twyn",
+        "img_preview": "https://fortnite.gg/img/items/8332/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8332/video.mp4?1",
+        "amount": "8"
+    },
+    {
+        "item_name": "Lennox Rose",
+        "img_preview": "https://fortnite.gg/img/items/8336/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8336/video.mp4?2",
+        "amount": "6"
+    },
+    {
+        "item_name": "Meow Skulls",
+        "img_preview": "https://fortnite.gg/img/items/8333/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8333/video.mp4?2",
+        "amount": "5"
+    },
+    {
+        "item_name": "Bytes",
+        "img_preview": "https://fortnite.gg/img/items/8331/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8331/video.mp4?2",
+        "amount": "2"
+    },
+    {
+        "item_name": "Grriz",
+        "img_preview": "https://fortnite.gg/img/items/8330/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8330/video.mp4?1",
+        "amount": "4"
+    },
+    {
+        "item_name": "Dreamer",
+        "img_preview": "https://fortnite.gg/img/items/8299/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8299/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Mazy",
+        "img_preview": "https://fortnite.gg/img/items/8298/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8298/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Nia",
+        "img_preview": "https://fortnite.gg/img/items/8196/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8196/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Starfire",
+        "img_preview": "https://fortnite.gg/img/items/8304/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8304/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Loveless",
+        "img_preview": "https://fortnite.gg/img/items/8264/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8264/video.mp4?1",
+        "amount": "#22)"
+    },
+    {
+        "item_name": "Patrick Mahomes",
+        "img_preview": "https://fortnite.gg/img/items/8235/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8235/video.mp4?1",
+        "amount": "1,800"
+    },
+    {
+        "item_name": "Mahomes Saucy Style",
+        "img_preview": "https://fortnite.gg/img/items/8234/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8234/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Commander Zavala",
+        "img_preview": "https://fortnite.gg/img/items/8246/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8246/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Ikora Rey",
+        "img_preview": "https://fortnite.gg/img/items/8245/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8245/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Exo Stranger",
+        "img_preview": "https://fortnite.gg/img/items/8244/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8244/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Phantasm",
+        "img_preview": "https://fortnite.gg/img/items/8195/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8195/video.mp4?1",
+        "amount": "PACK)"
+    },
+    {
+        "item_name": "Vegeta",
+        "img_preview": "https://fortnite.gg/img/items/8191/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8191/video.mp4?1",
+        "amount": "1,800"
+    },
+    {
+        "item_name": "Son Goku",
+        "img_preview": "https://fortnite.gg/img/items/8190/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8190/video.mp4?1",
+        "amount": "2,000"
+    },
+    {
+        "item_name": "Beerus",
+        "img_preview": "https://fortnite.gg/img/items/8192/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8192/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Bulma",
+        "img_preview": "https://fortnite.gg/img/items/8193/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8193/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Belle Berry",
+        "img_preview": "https://fortnite.gg/img/items/8121/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8121/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Wolverine Zero",
+        "img_preview": "https://fortnite.gg/img/items/8170/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8170/video.mp4?1",
+        "amount": "#21)"
+    },
+    {
+        "item_name": "Medley",
+        "img_preview": "https://fortnite.gg/img/items/8120/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8120/video.mp4?2",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "John Cena",
+        "img_preview": "https://fortnite.gg/img/items/8165/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8165/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Syd",
+        "img_preview": "https://fortnite.gg/img/items/8119/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8119/video.mp4?4",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Slayer Charlotte",
+        "img_preview": "https://fortnite.gg/img/items/8122/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8122/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Khari",
+        "img_preview": "https://fortnite.gg/img/items/8082/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8082/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Undercover Kor",
+        "img_preview": "https://fortnite.gg/img/items/8125/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8125/video.mp4?1",
+        "amount": "PACK)"
+    },
+    {
+        "item_name": "Riptide Raz",
+        "img_preview": "https://fortnite.gg/img/items/8124/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8124/video.mp4?1",
+        "amount": "PACK)"
+    },
+    {
+        "item_name": "Unstuffed Guff",
+        "img_preview": "https://fortnite.gg/img/items/8123/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8123/video.mp4?1",
+        "amount": "PACK)"
+    },
+    {
+        "item_name": "Xander",
+        "img_preview": "https://fortnite.gg/img/items/4391/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/4391/video.mp4?2",
+        "amount": "#4"
+    },
+    {
+        "item_name": "'Mato Marauder",
+        "img_preview": "https://fortnite.gg/img/items/8086/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8086/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Pleasant Patroller",
+        "img_preview": "https://fortnite.gg/img/items/8085/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8085/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Dusty Daredevil",
+        "img_preview": "https://fortnite.gg/img/items/8084/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8084/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Tilted Trooper",
+        "img_preview": "https://fortnite.gg/img/items/8083/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8083/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Recline Raider",
+        "img_preview": "https://fortnite.gg/img/items/8081/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8081/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Wailing Warrior",
+        "img_preview": "https://fortnite.gg/img/items/8080/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8080/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Salty Striker",
+        "img_preview": "https://fortnite.gg/img/items/8079/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8079/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Fearless Flusher",
+        "img_preview": "https://fortnite.gg/img/items/8078/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8078/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Lucky Leader",
+        "img_preview": "https://fortnite.gg/img/items/8077/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8077/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Risky Raider",
+        "img_preview": "https://fortnite.gg/img/items/8076/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8076/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Thor Odinson",
+        "img_preview": "https://fortnite.gg/img/items/8098/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8098/video.mp4?1",
+        "amount": "PACK)"
+    },
+    {
+        "item_name": "Mighty Thor",
+        "img_preview": "https://fortnite.gg/img/items/8097/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8097/video.mp4?1",
+        "amount": "PACK)"
+    },
+    {
+        "item_name": "Indiana Jones",
+        "img_preview": "https://fortnite.gg/img/items/7874/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7874/video.mp4?2",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "KAWSPEELY",
+        "img_preview": "https://fortnite.gg/img/items/8046/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8046/video.mp4?1",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Phaedra",
+        "img_preview": "https://fortnite.gg/img/items/8036/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8036/video.mp4?1",
+        "amount": "#20)"
+    },
+    {
+        "item_name": "Major Mancake",
+        "img_preview": "https://fortnite.gg/img/items/8038/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8038/video.mp4?1",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Fox Fire",
+        "img_preview": "https://fortnite.gg/img/items/8004/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/8004/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Itachi Uchiha",
+        "img_preview": "https://fortnite.gg/img/items/8024/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8024/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Orochimaru",
+        "img_preview": "https://fortnite.gg/img/items/8023/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8023/video.mp4?1",
+        "amount": "1,600"
+    },
+    {
+        "item_name": "Gaara",
+        "img_preview": "https://fortnite.gg/img/items/8022/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8022/video.mp4?1",
+        "amount": "1,800"
+    },
+    {
+        "item_name": "Hinata Hyuga",
+        "img_preview": "https://fortnite.gg/img/items/8021/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/8021/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Toni",
+        "img_preview": "https://fortnite.gg/img/items/7776/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7776/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Spider-Man Zero",
+        "img_preview": "https://fortnite.gg/img/items/7979/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/7979/video.mp4?1",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Min-joon",
+        "img_preview": "https://fortnite.gg/img/items/7775/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7775/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Jones Unchained",
+        "img_preview": "https://fortnite.gg/img/items/7880/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/7880/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Blizzard Bomber",
+        "img_preview": "https://fortnite.gg/img/items/7967/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/7967/video.mp4?1",
+        "amount": "#18"
+    },
+    {
+        "item_name": "Darth Vader",
+        "img_preview": "https://fortnite.gg/img/items/7873/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7873/video.mp4?1",
+        "amount": "10"
+    },
+    {
+        "item_name": "Snap",
+        "img_preview": "https://fortnite.gg/img/items/7879/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7879/video.mp4?1",
+        "amount": "1"
+    },
+    {
+        "item_name": "Malik",
+        "img_preview": "https://fortnite.gg/img/items/7875/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7875/video.mp4?5",
+        "amount": "6"
+    },
+    {
+        "item_name": "Sabina",
+        "img_preview": "https://fortnite.gg/img/items/7878/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7878/video.mp4?3",
+        "amount": "8"
+    },
+    {
+        "item_name": "Adira",
+        "img_preview": "https://fortnite.gg/img/items/7877/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7877/video.mp4?4",
+        "amount": "3"
+    },
+    {
+        "item_name": "Evie",
+        "img_preview": "https://fortnite.gg/img/items/7876/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7876/video.mp4?3",
+        "amount": "1"
+    },
+    {
+        "item_name": "Stormfarer",
+        "img_preview": "https://fortnite.gg/img/items/6763/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/6763/video.mp4?9",
+        "amount": "5"
+    },
+    {
+        "item_name": "Mecha Strike Defender",
+        "img_preview": "https://fortnite.gg/img/items/7862/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/7862/video.mp4?1",
+        "amount": "1,400"
+    },
+    {
+        "item_name": "Mecha Strike Navigator",
+        "img_preview": "https://fortnite.gg/img/items/7861/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/7861/video.mp4?1",
+        "amount": "1,400"
+    },
+    {
+        "item_name": "Mecha Strike Commander",
+        "img_preview": "https://fortnite.gg/img/items/7857/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7857/video.mp4?2",
+        "amount": "#19)"
+    },
+    {
+        "item_name": "Ramirez Redux",
+        "img_preview": "https://fortnite.gg/img/items/7785/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/7785/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "General Banshee",
+        "img_preview": "https://fortnite.gg/img/items/7784/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/7784/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Taskforce Rio",
+        "img_preview": "https://fortnite.gg/img/items/7783/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/7783/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Emmy Elite",
+        "img_preview": "https://fortnite.gg/img/items/7782/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/7782/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Jonesy the Secondst",
+        "img_preview": "https://fortnite.gg/img/items/7781/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/7781/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Captain Carlos",
+        "img_preview": "https://fortnite.gg/img/items/7780/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/7780/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Heavy Hitter Hector",
+        "img_preview": "https://fortnite.gg/img/items/7779/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/7779/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Mercenary Mansu",
+        "img_preview": "https://fortnite.gg/img/items/7778/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/7778/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Obi-Wan Kenobi",
+        "img_preview": "https://fortnite.gg/img/items/7805/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/7805/video.mp4?2",
+        "amount": "1,600"
+    },
+    {
+        "item_name": "FNCS Champion Seeker",
+        "img_preview": "https://fortnite.gg/img/items/7777/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/7777/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Eternal Wanderer",
+        "img_preview": "https://fortnite.gg/img/items/7774/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/7774/video.mp4?2",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Ali-A",
+        "img_preview": "https://fortnite.gg/img/items/7797/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/7797/video.mp4?4",
+        "amount": "1,800"
+    },
+    {
+        "item_name": "Tectonic Komplex",
+        "img_preview": "https://fortnite.gg/img/items/7773/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7773/video.mp4?2",
+        "amount": "BUNDLE)"
+    },
+    {
+        "item_name": "Zuri",
+        "img_preview": "https://fortnite.gg/img/items/6764/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6764/video.mp4?4",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "The Order",
+        "img_preview": "https://fortnite.gg/img/items/6761/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6761/video.mp4?3",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "RoboCop",
+        "img_preview": "https://fortnite.gg/img/items/6787/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6787/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Guardian Amara",
+        "img_preview": "https://fortnite.gg/img/items/6760/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6760/video.mp4?3",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Chica",
+        "img_preview": "https://fortnite.gg/img/items/6772/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6772/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Panther",
+        "img_preview": "https://fortnite.gg/img/items/6762/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6762/video.mp4?3",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Scarlet Witch",
+        "img_preview": "https://fortnite.gg/img/items/6776/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6776/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Omega Knight",
+        "img_preview": "https://fortnite.gg/img/items/6767/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6767/video.mp4?2",
+        "amount": "PACK)"
+    },
+    {
+        "item_name": "Southpaw",
+        "img_preview": "https://fortnite.gg/img/items/6728/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6728/video.mp4?2",
+        "amount": "#18)"
+    },
+    {
+        "item_name": "Sakura",
+        "img_preview": "https://fortnite.gg/img/items/6720/icon.png?6",
+        "item_video": "https://fnggcdn.com/items/6720/video.mp4?2",
+        "amount": "1,600"
+    },
+    {
+        "item_name": "Blanka",
+        "img_preview": "https://fortnite.gg/img/items/6719/icon.png?6",
+        "item_video": "https://fnggcdn.com/items/6719/video.mp4?2",
+        "amount": "1,600"
+    },
+    {
+        "item_name": "Throwback BG",
+        "img_preview": "https://fortnite.gg/img/items/6701/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6701/video.mp4?2",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "B.R.I.T.E.",
+        "img_preview": "https://fortnite.gg/img/items/6700/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6700/video.mp4?2",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Poet",
+        "img_preview": "https://fortnite.gg/img/items/6707/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6707/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Alto",
+        "img_preview": "https://fortnite.gg/img/items/6706/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6706/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Moon Knight",
+        "img_preview": "https://fortnite.gg/img/items/6689/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6689/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Prowler",
+        "img_preview": "https://fortnite.gg/img/items/6522/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6522/video.mp4?2",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Sorina",
+        "img_preview": "https://fortnite.gg/img/items/6615/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6615/video.mp4?2",
+        "amount": "1,400"
+    },
+    {
+        "item_name": "Wilder",
+        "img_preview": "https://fortnite.gg/img/items/6647/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6647/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Lyric",
+        "img_preview": "https://fortnite.gg/img/items/6646/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6646/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Eivor Varinsdottir",
+        "img_preview": "https://fortnite.gg/img/items/6638/icon.png?6",
+        "item_video": "https://fnggcdn.com/items/6638/video.mp4?2",
+        "amount": "1,800"
+    },
+    {
+        "item_name": "Ezio Auditore",
+        "img_preview": "https://fortnite.gg/img/items/6484/icon.png?6",
+        "item_video": "https://fnggcdn.com/items/6484/video.mp4?2",
+        "amount": "1,800"
+    },
+    {
+        "item_name": "Sayara",
+        "img_preview": "https://fortnite.gg/img/items/6599/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6599/video.mp4?2",
+        "amount": "#17)"
+    },
+    {
+        "item_name": "Zoe Clash",
+        "img_preview": "https://fortnite.gg/img/items/6464/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6464/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Chloe Kim",
+        "img_preview": "https://fortnite.gg/img/items/6592/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6592/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Mary Jane Watson",
+        "img_preview": "https://fortnite.gg/img/items/6587/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6587/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Doctor Strange",
+        "img_preview": "https://fortnite.gg/img/items/6519/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6519/video.mp4?3",
+        "amount": "10"
+    },
+    {
+        "item_name": "The Origin",
+        "img_preview": "https://fortnite.gg/img/items/6523/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6523/video.mp4?2",
+        "amount": "7"
+    },
+    {
+        "item_name": "The Imagined",
+        "img_preview": "https://fortnite.gg/img/items/6518/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6518/video.mp4?2",
+        "amount": "4"
+    },
+    {
+        "item_name": "Gunnar",
+        "img_preview": "https://fortnite.gg/img/items/6521/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6521/video.mp4?3",
+        "amount": "2"
+    },
+    {
+        "item_name": "Erisa",
+        "img_preview": "https://fortnite.gg/img/items/6520/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6520/video.mp4?4",
+        "amount": "8"
+    },
+    {
+        "item_name": "Tsuki 2.0",
+        "img_preview": "https://fortnite.gg/img/items/6517/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6517/video.mp4?3",
+        "amount": "1"
+    },
+    {
+        "item_name": "Kiara K.O.",
+        "img_preview": "https://fortnite.gg/img/items/6516/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6516/video.mp4?3",
+        "amount": "5"
+    },
+    {
+        "item_name": "Mecha-Pop",
+        "img_preview": "https://fortnite.gg/img/items/6467/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6467/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Leelah",
+        "img_preview": "https://fortnite.gg/img/items/6466/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6466/video.mp4?4",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Halley",
+        "img_preview": "https://fortnite.gg/img/items/6463/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6463/video.mp4?3",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Naomi Osaka",
+        "img_preview": "https://fortnite.gg/img/items/6468/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6468/video.mp4?2",
+        "amount": "2,000"
+    },
+    {
+        "item_name": "Dark Priestess Naomi",
+        "img_preview": "https://fortnite.gg/img/items/6465/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6465/video.mp4?2",
+        "amount": "1,600"
+    },
+    {
+        "item_name": "FNCS 3:1 Champion",
+        "img_preview": "https://fortnite.gg/img/items/6469/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6469/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Tracy Trouble",
+        "img_preview": "https://fortnite.gg/img/items/6440/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6440/video.mp4?2",
+        "amount": "#16)"
+    },
+    {
+        "item_name": "Toon Bushy",
+        "img_preview": "https://fortnite.gg/img/items/6387/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6387/video.mp4?2",
+        "amount": "PACK)"
+    },
+    {
+        "item_name": "Toon Peely",
+        "img_preview": "https://fortnite.gg/img/items/6386/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6386/video.mp4?2",
+        "amount": "PACK)"
+    },
+    {
+        "item_name": "Rogue",
+        "img_preview": "https://fortnite.gg/img/items/6427/icon.png?6",
+        "item_video": "https://fnggcdn.com/items/6427/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Gambit",
+        "img_preview": "https://fortnite.gg/img/items/6426/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6426/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Chloe Frazer",
+        "img_preview": "https://fortnite.gg/img/items/6409/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6409/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Nathan Drake",
+        "img_preview": "https://fortnite.gg/img/items/6408/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6408/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Monarch",
+        "img_preview": "https://fortnite.gg/img/items/6385/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6385/video.mp4?3",
+        "amount": "PACK)"
+    },
+    {
+        "item_name": "NBA 75 Shot-Caller",
+        "img_preview": "https://fortnite.gg/img/items/6403/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6403/video.mp4?5",
+        "amount": "800"
+    },
+    {
+        "item_name": "NBA 75 Fit",
+        "img_preview": "https://fortnite.gg/img/items/6402/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6402/video.mp4?5",
+        "amount": "800"
+    },
+    {
+        "item_name": "NBA 75 Swish",
+        "img_preview": "https://fortnite.gg/img/items/6401/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/6401/video.mp4?5",
+        "amount": "800"
+    },
+    {
+        "item_name": "NBA 75 Dunk",
+        "img_preview": "https://fortnite.gg/img/items/6400/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6400/video.mp4?5",
+        "amount": "800"
+    },
+    {
+        "item_name": "NBA 75 Clutch",
+        "img_preview": "https://fortnite.gg/img/items/6399/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6399/video.mp4?5",
+        "amount": "800"
+    },
+    {
+        "item_name": "NBA 75 Baller",
+        "img_preview": "https://fortnite.gg/img/items/6398/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/6398/video.mp4?5",
+        "amount": "800"
+    },
+    {
+        "item_name": "NBA 75 Slam",
+        "img_preview": "https://fortnite.gg/img/items/6397/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6397/video.mp4?5",
+        "amount": "800"
+    },
+    {
+        "item_name": "NBA 75 Flex",
+        "img_preview": "https://fortnite.gg/img/items/6396/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6396/video.mp4?5",
+        "amount": "800"
+    },
+    {
+        "item_name": "NBA 75 Flash",
+        "img_preview": "https://fortnite.gg/img/items/6395/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6395/video.mp4?5",
+        "amount": "800"
+    },
+    {
+        "item_name": "NBA 75 High-Flyer",
+        "img_preview": "https://fortnite.gg/img/items/6394/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6394/video.mp4?5",
+        "amount": "800"
+    },
+    {
+        "item_name": "Anderson .Paak",
+        "img_preview": "https://fortnite.gg/img/items/6339/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6339/video.mp4?5",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Bruno Mars",
+        "img_preview": "https://fortnite.gg/img/items/6338/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6338/video.mp4?5",
+        "amount": "1,800"
+    },
+    {
+        "item_name": "Krrsantan",
+        "img_preview": "https://fortnite.gg/img/items/6348/icon.png?6",
+        "item_video": "https://fnggcdn.com/items/6348/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Fennec Shand",
+        "img_preview": "https://fortnite.gg/img/items/6346/icon.png?6",
+        "item_video": "https://fnggcdn.com/items/6346/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Queen of Hearts",
+        "img_preview": "https://fortnite.gg/img/items/6309/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6309/video.mp4?2",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "The Foundation",
+        "img_preview": "https://fortnite.gg/img/items/6022/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6022/video.mp4?3",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Marsha",
+        "img_preview": "https://fortnite.gg/img/items/6330/icon.png?7",
+        "item_video": "https://fnggcdn.com/items/6330/video.mp4?3",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "MARSHINOBI",
+        "img_preview": "https://fortnite.gg/img/items/6329/icon.png?6",
+        "item_video": "https://fnggcdn.com/items/6329/video.mp4?2",
+        "amount": "1,600"
+    },
+    {
+        "item_name": "Aftermath",
+        "img_preview": "https://fortnite.gg/img/items/6291/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6291/video.mp4?3",
+        "amount": "#15)"
+    },
+    {
+        "item_name": "Stash'd",
+        "img_preview": "https://fortnite.gg/img/items/6268/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6268/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Green Goblin",
+        "img_preview": "https://fortnite.gg/img/items/6297/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6297/video.mp4?3",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Myna",
+        "img_preview": "https://fortnite.gg/img/items/6269/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6269/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Arcane Vi",
+        "img_preview": "https://fortnite.gg/img/items/6271/icon.png?6",
+        "item_video": "https://fnggcdn.com/items/6271/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Kate Bishop",
+        "img_preview": "https://fortnite.gg/img/items/6281/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6281/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Clint Barton",
+        "img_preview": "https://fortnite.gg/img/items/6280/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6280/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Madcap",
+        "img_preview": "https://fortnite.gg/img/items/3280/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/3280/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Glumbunny",
+        "img_preview": "https://fortnite.gg/img/items/6155/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6155/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Mel",
+        "img_preview": "https://fortnite.gg/img/items/6157/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6157/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Azuki",
+        "img_preview": "https://fortnite.gg/img/items/6156/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6156/video.mp4?3",
+        "amount": "1,400"
+    },
+    {
+        "item_name": "Snow Stealth Slone",
+        "img_preview": "https://fortnite.gg/img/items/6222/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6222/video.mp4?2",
+        "amount": "#14)"
+    },
+    {
+        "item_name": "Dawn",
+        "img_preview": "https://fortnite.gg/img/items/6153/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6153/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Shuto Striker",
+        "img_preview": "https://fortnite.gg/img/items/6245/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6245/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Mat Master",
+        "img_preview": "https://fortnite.gg/img/items/6244/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6244/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Kumite Clasher",
+        "img_preview": "https://fortnite.gg/img/items/6243/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6243/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Keri Commander",
+        "img_preview": "https://fortnite.gg/img/items/6242/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6242/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Kata Captain",
+        "img_preview": "https://fortnite.gg/img/items/6241/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6241/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Karateka Jones",
+        "img_preview": "https://fortnite.gg/img/items/6240/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6240/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Heron Stance Hero",
+        "img_preview": "https://fortnite.gg/img/items/6239/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6239/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Gi Guardian",
+        "img_preview": "https://fortnite.gg/img/items/6238/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6238/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Dojo Defender",
+        "img_preview": "https://fortnite.gg/img/items/6236/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6236/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Black Belt Brawler",
+        "img_preview": "https://fortnite.gg/img/items/6234/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6234/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Boba Fett",
+        "img_preview": "https://fortnite.gg/img/items/6215/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6215/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Nalia",
+        "img_preview": "https://fortnite.gg/img/items/6209/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6209/video.mp4?2",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Frigid Foregoer",
+        "img_preview": "https://fortnite.gg/img/items/6208/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6208/video.mp4?2",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Ice Crystal",
+        "img_preview": "https://fortnite.gg/img/items/6159/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6159/video.mp4?2",
+        "amount": "LEGENDS)"
+    },
+    {
+        "item_name": "Icebound Midas",
+        "img_preview": "https://fortnite.gg/img/items/6154/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6154/video.mp4?2",
+        "amount": "LEGENDS)"
+    },
+    {
+        "item_name": "Permafrost Raider",
+        "img_preview": "https://fortnite.gg/img/items/6152/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6152/video.mp4?2",
+        "amount": "LEGENDS)"
+    },
+    {
+        "item_name": "Reina",
+        "img_preview": "https://fortnite.gg/img/items/6158/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6158/video.mp4?2",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Spider-Man (No Way Home)",
+        "img_preview": "https://fortnite.gg/img/items/6190/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6190/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "MJ (No Way Home)",
+        "img_preview": "https://fortnite.gg/img/items/6189/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6189/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Polar Peely",
+        "img_preview": "https://fortnite.gg/img/items/6191/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6191/video.mp4?2",
+        "amount": "2021"
+    },
+    {
+        "item_name": "Krisabelle",
+        "img_preview": "https://fortnite.gg/img/items/6173/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6173/video.mp4?2",
+        "amount": "2021"
+    },
+    {
+        "item_name": "Blizzabelle",
+        "img_preview": "https://fortnite.gg/img/items/6150/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/6150/video.mp4?2",
+        "amount": "Free"
+    },
+    {
+        "item_name": "Cozy Knit Jonesy",
+        "img_preview": "https://fortnite.gg/img/items/6151/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/6151/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Sultura",
+        "img_preview": "https://fortnite.gg/img/items/6013/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6013/video.mp4?3",
+        "amount": "#16"
+    },
+    {
+        "item_name": "Absenz",
+        "img_preview": "https://fortnite.gg/img/items/6009/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6009/video.mp4?3",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Kait Diaz",
+        "img_preview": "https://fortnite.gg/img/items/6131/icon.png?6",
+        "item_video": "https://fnggcdn.com/items/6131/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Marcus Fenix",
+        "img_preview": "https://fortnite.gg/img/items/6130/icon.png?6",
+        "item_video": "https://fnggcdn.com/items/6130/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Spider-Man",
+        "img_preview": "https://fortnite.gg/img/items/6023/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6023/video.mp4?2",
+        "amount": "9"
+    },
+    {
+        "item_name": "Ronin",
+        "img_preview": "https://fortnite.gg/img/items/6026/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6026/video.mp4?3",
+        "amount": "1"
+    },
+    {
+        "item_name": "Lt. John Llama",
+        "img_preview": "https://fortnite.gg/img/items/6025/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6025/video.mp4?2",
+        "amount": "3"
+    },
+    {
+        "item_name": "Harlowe",
+        "img_preview": "https://fortnite.gg/img/items/6021/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6021/video.mp4?3",
+        "amount": "8"
+    },
+    {
+        "item_name": "Gumbo",
+        "img_preview": "https://fortnite.gg/img/items/6008/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6008/video.mp4?3",
+        "amount": "6"
+    },
+    {
+        "item_name": "Shanta",
+        "img_preview": "https://fortnite.gg/img/items/6005/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6005/video.mp4?3",
+        "amount": "1"
+    },
+    {
+        "item_name": "Haven",
+        "img_preview": "https://fortnite.gg/img/items/6003/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6003/video.mp4?3",
+        "amount": "5"
+    },
+    {
+        "item_name": "Robo-Kevin",
+        "img_preview": "https://fortnite.gg/img/items/5884/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5884/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Hangtime",
+        "img_preview": "https://fortnite.gg/img/items/5928/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5928/video.mp4?2",
+        "amount": "BUNDLE)"
+    },
+    {
+        "item_name": "Swish",
+        "img_preview": "https://fortnite.gg/img/items/5927/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5927/video.mp4?2",
+        "amount": "BUNDLE)"
+    },
+    {
+        "item_name": "Cube Assassin",
+        "img_preview": "https://fortnite.gg/img/items/5916/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5916/video.mp4?2",
+        "amount": "#13)"
+    },
+    {
+        "item_name": "Dark Skully",
+        "img_preview": "https://fortnite.gg/img/items/123/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/123/video.mp4?2",
+        "amount": "#4"
+    },
+    {
+        "item_name": "Nick Fury",
+        "img_preview": "https://fortnite.gg/img/items/5921/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/5921/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "NeuraLynx",
+        "img_preview": "https://fortnite.gg/img/items/5885/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5885/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "CRZ-8",
+        "img_preview": "https://fortnite.gg/img/items/5883/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5883/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "P33LY",
+        "img_preview": "https://fortnite.gg/img/items/5882/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5882/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Andre",
+        "img_preview": "https://fortnite.gg/img/items/5909/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5909/video.mp4?2",
+        "amount": "1,800"
+    },
+    {
+        "item_name": "Renee",
+        "img_preview": "https://fortnite.gg/img/items/5908/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5908/video.mp4?2",
+        "amount": "(Andre)"
+    },
+    {
+        "item_name": "Victor Elite",
+        "img_preview": "https://fortnite.gg/img/items/5886/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5886/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Sakura Haruno",
+        "img_preview": "https://fortnite.gg/img/items/5859/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/5859/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Naruto Uzumaki",
+        "img_preview": "https://fortnite.gg/img/items/5858/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/5858/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Kakashi Hatake",
+        "img_preview": "https://fortnite.gg/img/items/5857/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/5857/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Sasuke Uchiha",
+        "img_preview": "https://fortnite.gg/img/items/5856/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/5856/video.mp4?2",
+        "amount": "1,600"
+    },
+    {
+        "item_name": "Dark Phoenix",
+        "img_preview": "https://fortnite.gg/img/items/5850/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5850/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Arcane Jinx",
+        "img_preview": "https://fortnite.gg/img/items/5786/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/5786/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Skellemint Oro",
+        "img_preview": "https://fortnite.gg/img/items/5647/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5647/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Minty Bomber",
+        "img_preview": "https://fortnite.gg/img/items/5646/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5646/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Fresh Aura",
+        "img_preview": "https://fortnite.gg/img/items/5645/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5645/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "El Chapul\u00edn Colorado",
+        "img_preview": "https://fortnite.gg/img/items/5778/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5778/video.mp4?2",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Guerrero Colorado",
+        "img_preview": "https://fortnite.gg/img/items/5777/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5777/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Amazona Colorada",
+        "img_preview": "https://fortnite.gg/img/items/5776/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/5776/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "H\u00e9roe Colorado",
+        "img_preview": "https://fortnite.gg/img/items/5775/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5775/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Guerrera Colorada",
+        "img_preview": "https://fortnite.gg/img/items/5774/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5774/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Agente Colorado",
+        "img_preview": "https://fortnite.gg/img/items/5773/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5773/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Defensora Colorada",
+        "img_preview": "https://fortnite.gg/img/items/5772/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5772/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Soldado Colorado",
+        "img_preview": "https://fortnite.gg/img/items/5771/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5771/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Hero\u00edna Colorada",
+        "img_preview": "https://fortnite.gg/img/items/5770/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5770/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Defensor Colorado",
+        "img_preview": "https://fortnite.gg/img/items/5769/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5769/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Capitana Colorada",
+        "img_preview": "https://fortnite.gg/img/items/5768/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5768/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Sierra",
+        "img_preview": "https://fortnite.gg/img/items/5760/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5760/video.mp4?4",
+        "amount": "#12)"
+    },
+    {
+        "item_name": "Frankenstein's Bride",
+        "img_preview": "https://fortnite.gg/img/items/5785/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/5785/video.mp4?2",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Shadow Midas",
+        "img_preview": "https://fortnite.gg/img/items/5720/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5720/video.mp4?2",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Kernel Poppy",
+        "img_preview": "https://fortnite.gg/img/items/5722/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5722/video.mp4?2",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Boo-lastoff",
+        "img_preview": "https://fortnite.gg/img/items/5731/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5731/video.mp4?3",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Wanderlost",
+        "img_preview": "https://fortnite.gg/img/items/5730/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5730/video.mp4?3",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Doom Dancer",
+        "img_preview": "https://fortnite.gg/img/items/5729/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5729/video.mp4?3",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Extinguished Firebrand",
+        "img_preview": "https://fortnite.gg/img/items/5728/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5728/video.mp4?3",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "They're Back-Lash",
+        "img_preview": "https://fortnite.gg/img/items/5727/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5727/video.mp4?3",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "Horrorsonic",
+        "img_preview": "https://fortnite.gg/img/items/5726/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5726/video.mp4?3",
+        "amount": "1,500"
+    },
+    {
+        "item_name": "The Bitey Volt",
+        "img_preview": "https://fortnite.gg/img/items/5725/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5725/video.mp4?3",
+        "amount": "1,500"
+    }
+]

@@ -1,0 +1,2792 @@
+[
+    {
+        "item_name": "The Vault Guardian",
+        "img_preview": "https://fortnite.gg/img/items/9149/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9149/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Disarm-Her Blade",
+        "img_preview": "https://fortnite.gg/img/items/10064/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/10064/video.mp4?1",
+        "amount": "Lynch)"
+    },
+    {
+        "item_name": "K.O.D. Hammer",
+        "img_preview": "https://fortnite.gg/img/items/10060/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/10060/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Star Jet",
+        "img_preview": "https://fortnite.gg/img/items/9972/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9972/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Luminous Edge",
+        "img_preview": "https://fortnite.gg/img/items/10038/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/10038/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Spinback Slicer",
+        "img_preview": "https://fortnite.gg/img/items/9980/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9980/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Megumi's Sword",
+        "img_preview": "https://fortnite.gg/img/items/10040/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/10040/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Kugisaki's Hammer",
+        "img_preview": "https://fortnite.gg/img/items/10039/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/10039/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Rootkit Hammer",
+        "img_preview": "https://fortnite.gg/img/items/10037/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/10037/video.mp4?1",
+        "amount": "0"
+    },
+    {
+        "item_name": "Slaughter Demon",
+        "img_preview": "https://fortnite.gg/img/items/10036/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/10036/video.mp4?1",
+        "amount": "Curse!)"
+    },
+    {
+        "item_name": "Jolt Carver",
+        "img_preview": "https://fortnite.gg/img/items/9981/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9981/video.mp4?1",
+        "amount": "(Jittershock)"
+    },
+    {
+        "item_name": "Corebreaker Scythe",
+        "img_preview": "https://fortnite.gg/img/items/9970/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9970/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Starfall",
+        "img_preview": "https://fortnite.gg/img/items/9977/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9977/video.mp4?1",
+        "amount": "#3"
+    },
+    {
+        "item_name": "Prince Orin's Polearm",
+        "img_preview": "https://fortnite.gg/img/items/9976/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9976/video.mp4?1",
+        "amount": "#33)"
+    },
+    {
+        "item_name": "Sovereign Sabers",
+        "img_preview": "https://fortnite.gg/img/items/9973/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9973/video.mp4?1",
+        "amount": "#33)"
+    },
+    {
+        "item_name": "Mimetic Poly-Alloy Blades",
+        "img_preview": "https://fortnite.gg/img/items/9992/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9992/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Cleatspike Crusher",
+        "img_preview": "https://fortnite.gg/img/items/9971/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9971/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Woven Shadowblade",
+        "img_preview": "https://fortnite.gg/img/items/9978/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9978/video.mp4?1",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Giant Nutcracker",
+        "img_preview": "https://fortnite.gg/img/items/9979/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9979/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Solid Gold Fiddle",
+        "img_preview": "https://fortnite.gg/img/items/9975/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9975/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Unbendable Girder",
+        "img_preview": "https://fortnite.gg/img/items/9974/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9974/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Ebonheart Battleaxe",
+        "img_preview": "https://fortnite.gg/img/items/9926/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9926/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Dune Scooper",
+        "img_preview": "https://fortnite.gg/img/items/9787/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9787/video.mp4?1",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Artifact Axe",
+        "img_preview": "https://fortnite.gg/img/items/9910/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9910/video.mp4?1",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Velocity Edge",
+        "img_preview": "https://fortnite.gg/img/items/9643/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9643/video.mp4?1",
+        "amount": "2023"
+    },
+    {
+        "item_name": "Scoop Slicers",
+        "img_preview": "https://fortnite.gg/img/items/9891/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9891/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Bubble Wands",
+        "img_preview": "https://fortnite.gg/img/items/9890/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9890/video.mp4?1",
+        "amount": "#32)"
+    },
+    {
+        "item_name": "Racket of the Wish",
+        "img_preview": "https://fortnite.gg/img/items/9892/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9892/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Sock'em Socket",
+        "img_preview": "https://fortnite.gg/img/items/9648/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9648/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Baguette Bat",
+        "img_preview": "https://fortnite.gg/img/items/9889/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9889/video.mp4?1",
+        "amount": "0"
+    },
+    {
+        "item_name": "Blizzard's Bite",
+        "img_preview": "https://fortnite.gg/img/items/9094/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9094/video.mp4?1",
+        "amount": "3)"
+    },
+    {
+        "item_name": "Yennefer's Megascope",
+        "img_preview": "https://fortnite.gg/img/items/9857/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9857/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Zireael",
+        "img_preview": "https://fortnite.gg/img/items/9858/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9858/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "That Ice",
+        "img_preview": "https://fortnite.gg/img/items/9839/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9839/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Maxx Axe",
+        "img_preview": "https://fortnite.gg/img/items/9838/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9838/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Hacksear Blades",
+        "img_preview": "https://fortnite.gg/img/items/9646/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9646/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Couture Carver",
+        "img_preview": "https://fortnite.gg/img/items/9790/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9790/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Kitsune Claws",
+        "img_preview": "https://fortnite.gg/img/items/9795/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9795/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Archeo-Scythe",
+        "img_preview": "https://fortnite.gg/img/items/9791/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9791/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Nomad's Spear",
+        "img_preview": "https://fortnite.gg/img/items/9796/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9796/video.mp4?1",
+        "amount": "2"
+    },
+    {
+        "item_name": "Synchronous Sai",
+        "img_preview": "https://fortnite.gg/img/items/9794/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9794/video.mp4?1",
+        "amount": "(Free)"
+    },
+    {
+        "item_name": "Hunter's Reach",
+        "img_preview": "https://fortnite.gg/img/items/9793/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9793/video.mp4?1",
+        "amount": "7"
+    },
+    {
+        "item_name": "Cybertronian Axe",
+        "img_preview": "https://fortnite.gg/img/items/9792/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9792/video.mp4?1",
+        "amount": "(Free)"
+    },
+    {
+        "item_name": "Lucha Slashers",
+        "img_preview": "https://fortnite.gg/img/items/9786/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9786/video.mp4?1",
+        "amount": "9"
+    },
+    {
+        "item_name": "Marauder's Machete",
+        "img_preview": "https://fortnite.gg/img/items/9789/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9789/video.mp4?1",
+        "amount": "10"
+    },
+    {
+        "item_name": "Molten Max Axe",
+        "img_preview": "https://fortnite.gg/img/items/9788/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9788/video.mp4?1",
+        "amount": "4"
+    },
+    {
+        "item_name": "Sonic Swords",
+        "img_preview": "https://fortnite.gg/img/items/9692/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9692/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Scholar Slashers",
+        "img_preview": "https://fortnite.gg/img/items/9673/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9673/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Stitch'd Slicer",
+        "img_preview": "https://fortnite.gg/img/items/9647/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9647/video.mp4?1",
+        "amount": "#31)"
+    },
+    {
+        "item_name": "Spider-Ham's Mallet",
+        "img_preview": "https://fortnite.gg/img/items/9677/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9677/video.mp4?2",
+        "amount": "1,000"
+    },
+    {
+        "item_name": "928 Axes",
+        "img_preview": "https://fortnite.gg/img/items/9659/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9659/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Breakheart Blades",
+        "img_preview": "https://fortnite.gg/img/items/9644/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9644/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Cold Furia",
+        "img_preview": "https://fortnite.gg/img/items/9645/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9645/video.mp4?1",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Ki-Sword",
+        "img_preview": "https://fortnite.gg/img/items/9616/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9616/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Ki-Scythe",
+        "img_preview": "https://fortnite.gg/img/items/9615/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9615/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Eyes of Victory",
+        "img_preview": "https://fortnite.gg/img/items/9605/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9605/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Swiper Strikers",
+        "img_preview": "https://fortnite.gg/img/items/9487/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9487/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Lil' Sweeties",
+        "img_preview": "https://fortnite.gg/img/items/2459/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/2459/video.mp4?2",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Comet Carver",
+        "img_preview": "https://fortnite.gg/img/items/9582/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9582/video.mp4?1",
+        "amount": "PACK)"
+    },
+    {
+        "item_name": "Maul's Poleaxe",
+        "img_preview": "https://fortnite.gg/img/items/9580/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9580/video.mp4?1",
+        "amount": "Force)"
+    },
+    {
+        "item_name": "Royal Naboo Staff",
+        "img_preview": "https://fortnite.gg/img/items/9529/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9529/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Fusion Cutter",
+        "img_preview": "https://fortnite.gg/img/items/9525/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9525/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Sunfall Scythe",
+        "img_preview": "https://fortnite.gg/img/items/9585/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9585/video.mp4?1",
+        "amount": "0"
+    },
+    {
+        "item_name": "Dawning Scythe",
+        "img_preview": "https://fortnite.gg/img/items/9584/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9584/video.mp4?1",
+        "amount": "0"
+    },
+    {
+        "item_name": "Midnight Scythe",
+        "img_preview": "https://fortnite.gg/img/items/9583/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9583/video.mp4?1",
+        "amount": "0"
+    },
+    {
+        "item_name": "Three-Claw",
+        "img_preview": "https://fortnite.gg/img/items/9581/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9581/video.mp4?1",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Codecarver",
+        "img_preview": "https://fortnite.gg/img/items/9483/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9483/video.mp4?1",
+        "amount": "#30)"
+    },
+    {
+        "item_name": "Seabound Slasher",
+        "img_preview": "https://fortnite.gg/img/items/9484/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9484/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Fins of Retribution",
+        "img_preview": "https://fortnite.gg/img/items/9486/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9486/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Fin Flayer",
+        "img_preview": "https://fortnite.gg/img/items/9480/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9480/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Jolt Batons",
+        "img_preview": "https://fortnite.gg/img/items/9479/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9479/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Renegade Star",
+        "img_preview": "https://fortnite.gg/img/items/9481/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9481/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Crystalline Cactus",
+        "img_preview": "https://fortnite.gg/img/items/9505/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9505/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Electropalm Staff",
+        "img_preview": "https://fortnite.gg/img/items/9504/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9504/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Snakebite Slasher",
+        "img_preview": "https://fortnite.gg/img/items/9482/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9482/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Titan Strike",
+        "img_preview": "https://fortnite.gg/img/items/9358/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9358/video.mp4?1",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Snap Blade",
+        "img_preview": "https://fortnite.gg/img/items/9485/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9485/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Starlit Sai",
+        "img_preview": "https://fortnite.gg/img/items/9416/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9416/video.mp4?1",
+        "amount": "#29)"
+    },
+    {
+        "item_name": "Nannerbloom Hammer",
+        "img_preview": "https://fortnite.gg/img/items/9415/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9415/video.mp4?1",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Lovelorn",
+        "img_preview": "https://fortnite.gg/img/items/9251/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9251/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Umbrella Parasol",
+        "img_preview": "https://fortnite.gg/img/items/9392/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9392/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Leon's Combat Knife",
+        "img_preview": "https://fortnite.gg/img/items/9391/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9391/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Rogue Wrecker",
+        "img_preview": "https://fortnite.gg/img/items/9363/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9363/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Ned-Kit Detector",
+        "img_preview": "https://fortnite.gg/img/items/9152/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9152/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Plasmacore Claws",
+        "img_preview": "https://fortnite.gg/img/items/9366/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9366/video.mp4?1",
+        "amount": "11"
+    },
+    {
+        "item_name": "Breaking Waves",
+        "img_preview": "https://fortnite.gg/img/items/9365/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9365/video.mp4?1",
+        "amount": "13"
+    },
+    {
+        "item_name": "The Ashglow Blade",
+        "img_preview": "https://fortnite.gg/img/items/9364/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9364/video.mp4?1",
+        "amount": "7"
+    },
+    {
+        "item_name": "The Destroyer's Destroyer",
+        "img_preview": "https://fortnite.gg/img/items/9361/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9361/video.mp4?1",
+        "amount": "(Free)"
+    },
+    {
+        "item_name": "Foxfire Edge",
+        "img_preview": "https://fortnite.gg/img/items/9360/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9360/video.mp4?1",
+        "amount": "10"
+    },
+    {
+        "item_name": "Kaiju Cutter",
+        "img_preview": "https://fortnite.gg/img/items/9362/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9362/video.mp4?1",
+        "amount": "5"
+    },
+    {
+        "item_name": "Vicious Vintage",
+        "img_preview": "https://fortnite.gg/img/items/9359/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9359/video.mp4?1",
+        "amount": "3"
+    },
+    {
+        "item_name": "Adamantium Claws",
+        "img_preview": "https://fortnite.gg/img/items/8227/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8227/video.mp4?1",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Knockout Pick",
+        "img_preview": "https://fortnite.gg/img/items/9269/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9269/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Maceball Bat",
+        "img_preview": "https://fortnite.gg/img/items/9150/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9150/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "The Masterwork",
+        "img_preview": "https://fortnite.gg/img/items/9253/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9253/video.mp4?1",
+        "amount": "#28)"
+    },
+    {
+        "item_name": "Inheritor's Edge",
+        "img_preview": "https://fortnite.gg/img/items/9252/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9252/video.mp4?1",
+        "amount": "#28)"
+    },
+    {
+        "item_name": "Reactor Thrasher",
+        "img_preview": "https://fortnite.gg/img/items/9255/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9255/video.mp4?1",
+        "amount": "0"
+    },
+    {
+        "item_name": "Electric Crescents",
+        "img_preview": "https://fortnite.gg/img/items/9219/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9219/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Brite's Shield",
+        "img_preview": "https://fortnite.gg/img/items/9213/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9213/video.mp4?1",
+        "amount": "(BriteStar)"
+    },
+    {
+        "item_name": "Cap's Shield",
+        "img_preview": "https://fortnite.gg/img/items/9212/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9212/video.mp4?1",
+        "amount": "(MCU))"
+    },
+    {
+        "item_name": "Blackstar Edge",
+        "img_preview": "https://fortnite.gg/img/items/9151/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9151/video.mp4?1",
+        "amount": "PACK)"
+    },
+    {
+        "item_name": "Double Tags",
+        "img_preview": "https://fortnite.gg/img/items/9153/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9153/video.mp4?1",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Heartache",
+        "img_preview": "https://fortnite.gg/img/items/9129/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9129/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Witcher's Silver Sword",
+        "img_preview": "https://fortnite.gg/img/items/9108/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9108/video.mp4?1",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Witcher's Steel Sword",
+        "img_preview": "https://fortnite.gg/img/items/8848/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8848/video.mp4?3",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Laser Crosse",
+        "img_preview": "https://fortnite.gg/img/items/9092/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9092/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Smith's Slammers",
+        "img_preview": "https://fortnite.gg/img/items/9093/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/9093/video.mp4?1",
+        "amount": "#27)"
+    },
+    {
+        "item_name": "Piccolo's Handheld House",
+        "img_preview": "https://fortnite.gg/img/items/9083/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9083/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Gohan's Beast Axe",
+        "img_preview": "https://fortnite.gg/img/items/9082/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9082/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Westward Star",
+        "img_preview": "https://fortnite.gg/img/items/9019/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9019/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "The Tragic BLADE",
+        "img_preview": "https://fortnite.gg/img/items/9048/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9048/video.mp4?1",
+        "amount": "LAROI)"
+    },
+    {
+        "item_name": "Plasma Cutter",
+        "img_preview": "https://fortnite.gg/img/items/9037/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9037/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Warden's Oath",
+        "img_preview": "https://fortnite.gg/img/items/9018/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9018/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Red Hot Revenge",
+        "img_preview": "https://fortnite.gg/img/items/8434/icon.png?389",
+        "item_video": "https://fnggcdn.com/items/8434/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Momentum",
+        "img_preview": "https://fortnite.gg/img/items/8933/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8933/video.mp4?1",
+        "amount": "PACK)"
+    },
+    {
+        "item_name": "Utility Snapsword",
+        "img_preview": "https://fortnite.gg/img/items/8935/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8935/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Plumed Talon",
+        "img_preview": "https://fortnite.gg/img/items/8939/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8939/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Duelist's Grace",
+        "img_preview": "https://fortnite.gg/img/items/8722/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8722/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Gilt Glaive",
+        "img_preview": "https://fortnite.gg/img/items/8993/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8993/video.mp4?1",
+        "amount": "#26)"
+    },
+    {
+        "item_name": "Mace of Hearts",
+        "img_preview": "https://fortnite.gg/img/items/6307/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6307/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Diamond Doru",
+        "img_preview": "https://fortnite.gg/img/items/8986/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8986/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Hashmark Hatchets",
+        "img_preview": "https://fortnite.gg/img/items/8985/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8985/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Silver Sleet",
+        "img_preview": "https://fortnite.gg/img/items/8932/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8932/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Sparkli Scampi",
+        "img_preview": "https://fortnite.gg/img/items/8934/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8934/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Cluster Buster",
+        "img_preview": "https://fortnite.gg/img/items/8967/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8967/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Uravity Smasher",
+        "img_preview": "https://fortnite.gg/img/items/8966/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8966/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Blackwhip Axe",
+        "img_preview": "https://fortnite.gg/img/items/8965/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8965/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "All Smite",
+        "img_preview": "https://fortnite.gg/img/items/8968/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8968/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Beast Claw",
+        "img_preview": "https://fortnite.gg/img/items/8938/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8938/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "MrBeast Smasher",
+        "img_preview": "https://fortnite.gg/img/items/8937/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8937/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Sledgecracker",
+        "img_preview": "https://fortnite.gg/img/items/8936/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8936/video.mp4?1",
+        "amount": "2022"
+    },
+    {
+        "item_name": "Ember Baton",
+        "img_preview": "https://fortnite.gg/img/items/8717/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8717/video.mp4?2",
+        "amount": "#19"
+    },
+    {
+        "item_name": "The Ruthless Claw",
+        "img_preview": "https://fortnite.gg/img/items/8721/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8721/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Demolisher",
+        "img_preview": "https://fortnite.gg/img/items/8880/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8880/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Crucible Blade",
+        "img_preview": "https://fortnite.gg/img/items/8850/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8850/video.mp4?3",
+        "amount": "6"
+    },
+    {
+        "item_name": "Big Bite",
+        "img_preview": "https://fortnite.gg/img/items/8851/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8851/video.mp4?4",
+        "amount": "11"
+    },
+    {
+        "item_name": "The Eternal Edge",
+        "img_preview": "https://fortnite.gg/img/items/8847/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8847/video.mp4?3",
+        "amount": "(Free)"
+    },
+    {
+        "item_name": "Board Breaker",
+        "img_preview": "https://fortnite.gg/img/items/8853/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8853/video.mp4?4",
+        "amount": "3"
+    },
+    {
+        "item_name": "Lunar Glow",
+        "img_preview": "https://fortnite.gg/img/items/8852/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8852/video.mp4?4",
+        "amount": "1"
+    },
+    {
+        "item_name": "Designated Hitters",
+        "img_preview": "https://fortnite.gg/img/items/8846/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8846/video.mp4?2",
+        "amount": "(Free)"
+    },
+    {
+        "item_name": "Fanged Foresight",
+        "img_preview": "https://fortnite.gg/img/items/8845/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8845/video.mp4?2",
+        "amount": "9"
+    },
+    {
+        "item_name": "Thrash-R Grips",
+        "img_preview": "https://fortnite.gg/img/items/8720/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8720/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Legendary Blade of Insight",
+        "img_preview": "https://fortnite.gg/img/items/8849/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8849/video.mp4?3",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "The Scarlet Oath",
+        "img_preview": "https://fortnite.gg/img/items/8740/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8740/video.mp4?1",
+        "amount": "#25)"
+    },
+    {
+        "item_name": "Saber's Fang",
+        "img_preview": "https://fortnite.gg/img/items/8657/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8657/video.mp4?2",
+        "amount": "Bundle"
+    },
+    {
+        "item_name": "Code Cutter",
+        "img_preview": "https://fortnite.gg/img/items/8655/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8655/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "World Class",
+        "img_preview": "https://fortnite.gg/img/items/8718/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8718/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Rat Tail",
+        "img_preview": "https://fortnite.gg/img/items/8719/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8719/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Photonic Striker",
+        "img_preview": "https://fortnite.gg/img/items/8139/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8139/video.mp4?1",
+        "amount": "0"
+    },
+    {
+        "item_name": "Clutch Victory",
+        "img_preview": "https://fortnite.gg/img/items/8723/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8723/video.mp4?3",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Champion Balisong",
+        "img_preview": "https://fortnite.gg/img/items/8658/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8658/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Stadium Collector",
+        "img_preview": "https://fortnite.gg/img/items/8674/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8674/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "1992 Mallet",
+        "img_preview": "https://fortnite.gg/img/items/8673/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8673/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Thunderous Yari",
+        "img_preview": "https://fortnite.gg/img/items/8656/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8656/video.mp4?2",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Baleful Bellow",
+        "img_preview": "https://fortnite.gg/img/items/8654/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8654/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Vibro-staff",
+        "img_preview": "https://fortnite.gg/img/items/8647/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8647/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Electrostaff",
+        "img_preview": "https://fortnite.gg/img/items/8646/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8646/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Slugthrower Rifle",
+        "img_preview": "https://fortnite.gg/img/items/8645/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8645/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Sunken Strikers",
+        "img_preview": "https://fortnite.gg/img/items/8610/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8610/video.mp4?1",
+        "amount": "#24)"
+    },
+    {
+        "item_name": "Epitaph Edge",
+        "img_preview": "https://fortnite.gg/img/items/8436/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8436/video.mp4?1",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Wicked Axe",
+        "img_preview": "https://fortnite.gg/img/items/8584/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8584/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Skully Sceptre",
+        "img_preview": "https://fortnite.gg/img/items/8583/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8583/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Abyssal Familiar",
+        "img_preview": "https://fortnite.gg/img/items/8586/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8586/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Ava's Ravers",
+        "img_preview": "https://fortnite.gg/img/items/8592/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8592/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Screamo Scythe",
+        "img_preview": "https://fortnite.gg/img/items/8589/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8589/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "High Stakes",
+        "img_preview": "https://fortnite.gg/img/items/8585/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8585/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Chainsaw Hand",
+        "img_preview": "https://fortnite.gg/img/items/8591/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8591/video.mp4?1",
+        "amount": "PACK)"
+    },
+    {
+        "item_name": "Blazeberry Blade",
+        "img_preview": "https://fortnite.gg/img/items/8431/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8431/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Glimmering Edge",
+        "img_preview": "https://fortnite.gg/img/items/8430/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8430/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "24 Karat Katana",
+        "img_preview": "https://fortnite.gg/img/items/8429/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8429/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Hawkman's Mace",
+        "img_preview": "https://fortnite.gg/img/items/8534/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8534/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Unmaker",
+        "img_preview": "https://fortnite.gg/img/items/8590/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8590/video.mp4?1",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Summoned Katana",
+        "img_preview": "https://fortnite.gg/img/items/8588/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8588/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Gutsy Grabber",
+        "img_preview": "https://fortnite.gg/img/items/8587/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8587/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "The Ending",
+        "img_preview": "https://fortnite.gg/img/items/8497/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8497/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "The Ever-Seeing Eye",
+        "img_preview": "https://fortnite.gg/img/items/8492/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8492/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "The Furia",
+        "img_preview": "https://fortnite.gg/img/items/8212/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8212/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Blowback",
+        "img_preview": "https://fortnite.gg/img/items/8496/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8496/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Blackout Maces",
+        "img_preview": "https://fortnite.gg/img/items/8495/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8495/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Axes of Influence",
+        "img_preview": "https://fortnite.gg/img/items/8493/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8493/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "X-23's Adamantium Claws",
+        "img_preview": "https://fortnite.gg/img/items/8523/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8523/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Mochi Masher",
+        "img_preview": "https://fortnite.gg/img/items/8494/icon.png?6",
+        "item_video": "https://fnggcdn.com/items/8494/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Red's Rippers",
+        "img_preview": "https://fortnite.gg/img/items/8456/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8456/video.mp4?4",
+        "amount": "#23)"
+    },
+    {
+        "item_name": "Bladed Gauntlet",
+        "img_preview": "https://fortnite.gg/img/items/8445/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8445/video.mp4?2",
+        "amount": "BUNDLE)"
+    },
+    {
+        "item_name": "Thudthumper",
+        "img_preview": "https://fortnite.gg/img/items/8277/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8277/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Sypher's Scimitar",
+        "img_preview": "https://fortnite.gg/img/items/8428/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8428/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Celebratory Slice",
+        "img_preview": "https://fortnite.gg/img/items/8427/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8427/video.mp4?2",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Spider Snare",
+        "img_preview": "https://fortnite.gg/img/items/8435/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8435/video.mp4?1",
+        "amount": "(Free)"
+    },
+    {
+        "item_name": "Lectrostatic Impactor",
+        "img_preview": "https://fortnite.gg/img/items/8425/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8425/video.mp4?1",
+        "amount": "8"
+    },
+    {
+        "item_name": "The Nothing's Gift",
+        "img_preview": "https://fortnite.gg/img/items/8424/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8424/video.mp4?1",
+        "amount": "2"
+    },
+    {
+        "item_name": "Rose Light Daggers",
+        "img_preview": "https://fortnite.gg/img/items/8433/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8433/video.mp4?1",
+        "amount": "(Free)"
+    },
+    {
+        "item_name": "Lunar Defender",
+        "img_preview": "https://fortnite.gg/img/items/8432/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8432/video.mp4?1",
+        "amount": "1"
+    },
+    {
+        "item_name": "Fishbone Flayer",
+        "img_preview": "https://fortnite.gg/img/items/8426/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8426/video.mp4?1",
+        "amount": "5"
+    },
+    {
+        "item_name": "Grrizzy Gooper",
+        "img_preview": "https://fortnite.gg/img/items/8423/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8423/video.mp4?1",
+        "amount": "4"
+    },
+    {
+        "item_name": "Kaleido-Crusher",
+        "img_preview": "https://fortnite.gg/img/items/8276/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8276/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Crossmark Cudgel",
+        "img_preview": "https://fortnite.gg/img/items/8213/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8213/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Starbolt",
+        "img_preview": "https://fortnite.gg/img/items/8305/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/8305/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Stylus Edge",
+        "img_preview": "https://fortnite.gg/img/items/8261/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8261/video.mp4?1",
+        "amount": "#22)"
+    },
+    {
+        "item_name": "Snap Axes",
+        "img_preview": "https://fortnite.gg/img/items/8230/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8230/video.mp4?1",
+        "amount": "Mahomes)"
+    },
+    {
+        "item_name": "Black Talon",
+        "img_preview": "https://fortnite.gg/img/items/8242/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8242/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Crown-Splitter",
+        "img_preview": "https://fortnite.gg/img/items/8241/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8241/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "The Lament",
+        "img_preview": "https://fortnite.gg/img/items/8240/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8240/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "The All-Seeing Scythe",
+        "img_preview": "https://fortnite.gg/img/items/8214/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8214/video.mp4?1",
+        "amount": "PACK)"
+    },
+    {
+        "item_name": "Power Pole (Nyoibo)",
+        "img_preview": "https://fortnite.gg/img/items/8215/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8215/video.mp4?1",
+        "amount": "Goku)"
+    },
+    {
+        "item_name": "Kamesennin's Staff",
+        "img_preview": "https://fortnite.gg/img/items/8216/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8216/video.mp4?1",
+        "amount": "600"
+    },
+    {
+        "item_name": "Maceberry Mauler",
+        "img_preview": "https://fortnite.gg/img/items/8140/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8140/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "'Bow Blades",
+        "img_preview": "https://fortnite.gg/img/items/8144/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8144/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Muramasa Blade",
+        "img_preview": "https://fortnite.gg/img/items/8168/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8168/video.mp4?1",
+        "amount": "#21)"
+    },
+    {
+        "item_name": "Paddle Axe",
+        "img_preview": "https://fortnite.gg/img/items/8145/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8145/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Five Digit Slapper",
+        "img_preview": "https://fortnite.gg/img/items/8163/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8163/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Weighted Spikegloves",
+        "img_preview": "https://fortnite.gg/img/items/8141/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8141/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Swift Sai",
+        "img_preview": "https://fortnite.gg/img/items/8143/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8143/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Fortified Demonslayer Blade",
+        "img_preview": "https://fortnite.gg/img/items/8142/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8142/video.mp4?1",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Moonlit Bowblade",
+        "img_preview": "https://fortnite.gg/img/items/8065/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8065/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Cube Flayer",
+        "img_preview": "https://fortnite.gg/img/items/8149/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8149/video.mp4?1",
+        "amount": "PACK)"
+    },
+    {
+        "item_name": "Regal Sunset",
+        "img_preview": "https://fortnite.gg/img/items/8148/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8148/video.mp4?2",
+        "amount": "PACK)"
+    },
+    {
+        "item_name": "Kor Cutters",
+        "img_preview": "https://fortnite.gg/img/items/8147/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8147/video.mp4?1",
+        "amount": "PACK)"
+    },
+    {
+        "item_name": "Lucky Lance",
+        "img_preview": "https://fortnite.gg/img/items/8146/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8146/video.mp4?1",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "The Dish-stroyer",
+        "img_preview": "https://fortnite.gg/img/items/7759/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7759/video.mp4?2",
+        "amount": "NOW"
+    },
+    {
+        "item_name": "Oasis Wind",
+        "img_preview": "https://fortnite.gg/img/items/5351/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5351/video.mp4?3",
+        "amount": "#4"
+    },
+    {
+        "item_name": "Reformed Mjolnir",
+        "img_preview": "https://fortnite.gg/img/items/8092/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8092/video.mp4?1",
+        "amount": "PACK)"
+    },
+    {
+        "item_name": "Stormbreaker",
+        "img_preview": "https://fortnite.gg/img/items/8091/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8091/video.mp4?1",
+        "amount": "2,500"
+    },
+    {
+        "item_name": "Raider's Relics",
+        "img_preview": "https://fortnite.gg/img/items/7931/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7931/video.mp4?1",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Stygian Parasol",
+        "img_preview": "https://fortnite.gg/img/items/8033/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8033/video.mp4?1",
+        "amount": "#20)"
+    },
+    {
+        "item_name": "Sweet Clementine",
+        "img_preview": "https://fortnite.gg/img/items/8040/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8040/video.mp4?1",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Fire Fangs",
+        "img_preview": "https://fortnite.gg/img/items/7997/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7997/video.mp4?1",
+        "amount": "600"
+    },
+    {
+        "item_name": "Sword of Kusanagi",
+        "img_preview": "https://fortnite.gg/img/items/8012/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8012/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Minato's Kunai",
+        "img_preview": "https://fortnite.gg/img/items/8013/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/8013/video.mp4?1",
+        "amount": "500"
+    },
+    {
+        "item_name": "Tropic's Beak",
+        "img_preview": "https://fortnite.gg/img/items/7998/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7998/video.mp4?1",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Inline Impactor",
+        "img_preview": "https://fortnite.gg/img/items/7758/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7758/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Web Slicer",
+        "img_preview": "https://fortnite.gg/img/items/7985/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7985/video.mp4?1",
+        "amount": "800"
+    },
+    {
+        "item_name": "Tactical Geoms",
+        "img_preview": "https://fortnite.gg/img/items/7757/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7757/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Sigil of the Empire",
+        "img_preview": "https://fortnite.gg/img/items/7936/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7936/video.mp4?1",
+        "amount": "(Free)"
+    },
+    {
+        "item_name": "The King's Oath",
+        "img_preview": "https://fortnite.gg/img/items/7934/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7934/video.mp4?1",
+        "amount": "6"
+    },
+    {
+        "item_name": "Dragon Rune Lance",
+        "img_preview": "https://fortnite.gg/img/items/7933/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7933/video.mp4?1",
+        "amount": "3"
+    },
+    {
+        "item_name": "Pairing Blades",
+        "img_preview": "https://fortnite.gg/img/items/7930/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7930/video.mp4?1",
+        "amount": "1"
+    },
+    {
+        "item_name": "Widow's Promise",
+        "img_preview": "https://fortnite.gg/img/items/7935/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7935/video.mp4?1",
+        "amount": "8"
+    },
+    {
+        "item_name": "Utility Claymore",
+        "img_preview": "https://fortnite.gg/img/items/7932/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7932/video.mp4?1",
+        "amount": "(Free)"
+    },
+    {
+        "item_name": "Dazzle Daggers",
+        "img_preview": "https://fortnite.gg/img/items/6459/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6459/video.mp4?2",
+        "amount": "Play"
+    },
+    {
+        "item_name": "Stormshielder Blades",
+        "img_preview": "https://fortnite.gg/img/items/6745/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/6745/video.mp4?2",
+        "amount": "5"
+    },
+    {
+        "item_name": "Light Blade",
+        "img_preview": "https://fortnite.gg/img/items/7929/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7929/video.mp4?1",
+        "amount": "#19)"
+    },
+    {
+        "item_name": "The Axe of Champions 2.0",
+        "img_preview": "https://fortnite.gg/img/items/7852/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7852/video.mp4?2",
+        "amount": "Champion"
+    },
+    {
+        "item_name": "Island Classic",
+        "img_preview": "https://fortnite.gg/img/items/7755/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7755/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Obi-Wan's Blade",
+        "img_preview": "https://fortnite.gg/img/items/7801/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7801/video.mp4?2",
+        "amount": "Kenobi)"
+    },
+    {
+        "item_name": "Ali-Tech Staff",
+        "img_preview": "https://fortnite.gg/img/items/7792/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7792/video.mp4?3",
+        "amount": "800"
+    },
+    {
+        "item_name": "Sulfuric Street Shine",
+        "img_preview": "https://fortnite.gg/img/items/7756/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/7756/video.mp4?2",
+        "amount": "BUNDLE)"
+    },
+    {
+        "item_name": "Empowered Dha",
+        "img_preview": "https://fortnite.gg/img/items/6744/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6744/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "The Ordered Cutlass",
+        "img_preview": "https://fortnite.gg/img/items/6741/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6741/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "LEG-209",
+        "img_preview": "https://fortnite.gg/img/items/6788/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/6788/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "The Goldenbane Mace",
+        "img_preview": "https://fortnite.gg/img/items/6742/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6742/video.mp4?3",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Aida's Edge",
+        "img_preview": "https://fortnite.gg/img/items/6769/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6769/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Panthertooth",
+        "img_preview": "https://fortnite.gg/img/items/6743/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6743/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Chaos Hand Axe",
+        "img_preview": "https://fortnite.gg/img/items/6777/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6777/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Knight's Torment",
+        "img_preview": "https://fortnite.gg/img/items/6766/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6766/video.mp4?2",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Arc Flail",
+        "img_preview": "https://fortnite.gg/img/items/6727/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6727/video.mp4?2",
+        "amount": "#18)"
+    },
+    {
+        "item_name": "Secret Sledge",
+        "img_preview": "https://fortnite.gg/img/items/6670/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6670/video.mp4?2",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Fighting Tournament Trophy",
+        "img_preview": "https://fortnite.gg/img/items/6718/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/6718/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Tropical Hazard Kebab",
+        "img_preview": "https://fortnite.gg/img/items/6717/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/6717/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Neck Protector",
+        "img_preview": "https://fortnite.gg/img/items/6704/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6704/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Triumphant Tagger",
+        "img_preview": "https://fortnite.gg/img/items/6703/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6703/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Softest Electropalm",
+        "img_preview": "https://fortnite.gg/img/items/6709/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6709/video.mp4?3",
+        "amount": "800"
+    },
+    {
+        "item_name": "Cactical Crusher",
+        "img_preview": "https://fortnite.gg/img/items/6708/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6708/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Crescent Darts",
+        "img_preview": "https://fortnite.gg/img/items/6690/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6690/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Energy Claw",
+        "img_preview": "https://fortnite.gg/img/items/6530/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6530/video.mp4?2",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Nightforged Blades",
+        "img_preview": "https://fortnite.gg/img/items/6616/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6616/video.mp4?2",
+        "amount": "(Sorina)"
+    },
+    {
+        "item_name": "Neon Biter",
+        "img_preview": "https://fortnite.gg/img/items/6649/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6649/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Festival Shredder",
+        "img_preview": "https://fortnite.gg/img/items/6648/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6648/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Handaxes of the Raven Clan",
+        "img_preview": "https://fortnite.gg/img/items/6633/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/6633/video.mp4?2",
+        "amount": "Varinsdottir)"
+    },
+    {
+        "item_name": "Ezio's Hidden Blade",
+        "img_preview": "https://fortnite.gg/img/items/6482/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/6482/video.mp4?2",
+        "amount": "Auditore)"
+    },
+    {
+        "item_name": "Dual Machettas",
+        "img_preview": "https://fortnite.gg/img/items/6601/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6601/video.mp4?2",
+        "amount": "#17)"
+    },
+    {
+        "item_name": "Beep & Boop",
+        "img_preview": "https://fortnite.gg/img/items/6460/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6460/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Frozen Flourish",
+        "img_preview": "https://fortnite.gg/img/items/6594/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6594/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Web Shredder",
+        "img_preview": "https://fortnite.gg/img/items/6588/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6588/video.mp4?2",
+        "amount": "Watson)"
+    },
+    {
+        "item_name": "Future Relic Scythe",
+        "img_preview": "https://fortnite.gg/img/items/9254/icon.png?1",
+        "item_video": "https://fnggcdn.com/items/9254/video.mp4?1",
+        "amount": "#20"
+    },
+    {
+        "item_name": "Spellwork Scimitar",
+        "img_preview": "https://fortnite.gg/img/items/6526/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6526/video.mp4?2",
+        "amount": "(Free)"
+    },
+    {
+        "item_name": "Guardian Daggers",
+        "img_preview": "https://fortnite.gg/img/items/6531/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6531/video.mp4?2",
+        "amount": "8"
+    },
+    {
+        "item_name": "Cubic Scepter",
+        "img_preview": "https://fortnite.gg/img/items/6529/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6529/video.mp4?2",
+        "amount": "7"
+    },
+    {
+        "item_name": "Omni Sword",
+        "img_preview": "https://fortnite.gg/img/items/6527/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6527/video.mp4?3",
+        "amount": "1"
+    },
+    {
+        "item_name": "Punch Saw",
+        "img_preview": "https://fortnite.gg/img/items/6528/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6528/video.mp4?2",
+        "amount": "2"
+    },
+    {
+        "item_name": "The Imagined Blade",
+        "img_preview": "https://fortnite.gg/img/items/6525/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6525/video.mp4?2",
+        "amount": "(Free)"
+    },
+    {
+        "item_name": "K.O. Club",
+        "img_preview": "https://fortnite.gg/img/items/6524/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6524/video.mp4?2",
+        "amount": "5"
+    },
+    {
+        "item_name": "Pneumatic Pop-Axe",
+        "img_preview": "https://fortnite.gg/img/items/6457/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6457/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Snowtooth",
+        "img_preview": "https://fortnite.gg/img/items/6462/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6462/video.mp4?2",
+        "amount": "#17"
+    },
+    {
+        "item_name": "The Amethyst Fang",
+        "img_preview": "https://fortnite.gg/img/items/6461/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6461/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Royale Racket",
+        "img_preview": "https://fortnite.gg/img/items/6458/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6458/video.mp4?2",
+        "amount": "Osaka)"
+    },
+    {
+        "item_name": "Portalforger Paddle",
+        "img_preview": "https://fortnite.gg/img/items/6456/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6456/video.mp4?2",
+        "amount": "Naomi)"
+    },
+    {
+        "item_name": "Heartslash",
+        "img_preview": "https://fortnite.gg/img/items/6441/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6441/video.mp4?2",
+        "amount": "#16)"
+    },
+    {
+        "item_name": "The Weed Whacker",
+        "img_preview": "https://fortnite.gg/img/items/6389/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6389/video.mp4?2",
+        "amount": "PACK)"
+    },
+    {
+        "item_name": "Nanner Hammer",
+        "img_preview": "https://fortnite.gg/img/items/6388/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6388/video.mp4?2",
+        "amount": "PACK)"
+    },
+    {
+        "item_name": "Holo X-Axe",
+        "img_preview": "https://fortnite.gg/img/items/6431/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6431/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "LeBeau's Bo",
+        "img_preview": "https://fortnite.gg/img/items/6429/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6429/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Second Hand Saber",
+        "img_preview": "https://fortnite.gg/img/items/6411/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6411/video.mp4?3",
+        "amount": "500"
+    },
+    {
+        "item_name": "Parashurama Axe",
+        "img_preview": "https://fortnite.gg/img/items/6410/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6410/video.mp4?3",
+        "amount": "500"
+    },
+    {
+        "item_name": "Thorns of Passion",
+        "img_preview": "https://fortnite.gg/img/items/6308/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6308/video.mp4?2",
+        "amount": "Trials"
+    },
+    {
+        "item_name": "Boom Bap",
+        "img_preview": "https://fortnite.gg/img/items/6344/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6344/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Sound Scepter",
+        "img_preview": "https://fortnite.gg/img/items/6343/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6343/video.mp4?2",
+        "amount": "Mars)"
+    },
+    {
+        "item_name": "Foundation's Plasma Spike",
+        "img_preview": "https://fortnite.gg/img/items/5949/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5949/video.mp4?6",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Mello Glo",
+        "img_preview": "https://fortnite.gg/img/items/6332/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6332/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "The Shockwave Blade",
+        "img_preview": "https://fortnite.gg/img/items/6331/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6331/video.mp4?2",
+        "amount": "(MARSHINOBI)"
+    },
+    {
+        "item_name": "Rave Digger",
+        "img_preview": "https://fortnite.gg/img/items/6290/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6290/video.mp4?2",
+        "amount": "#15)"
+    },
+    {
+        "item_name": "Fit Stick",
+        "img_preview": "https://fortnite.gg/img/items/6257/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6257/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Pumpkin P'axe",
+        "img_preview": "https://fortnite.gg/img/items/6295/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6295/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Bleak Beak",
+        "img_preview": "https://fortnite.gg/img/items/6256/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6256/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Piltover Warden Hammer",
+        "img_preview": "https://fortnite.gg/img/items/6275/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/6275/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Taut Slicer",
+        "img_preview": "https://fortnite.gg/img/items/6285/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6285/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Pickross Bow",
+        "img_preview": "https://fortnite.gg/img/items/6284/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6284/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Crescent Shroom",
+        "img_preview": "https://fortnite.gg/img/items/2297/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/2297/video.mp4?3",
+        "amount": "800"
+    },
+    {
+        "item_name": "Nyan Claws",
+        "img_preview": "https://fortnite.gg/img/items/6164/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6164/video.mp4?2",
+        "amount": "(Azuki)"
+    },
+    {
+        "item_name": "Sleet Spike",
+        "img_preview": "https://fortnite.gg/img/items/6225/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6225/video.mp4?2",
+        "amount": "#14)"
+    },
+    {
+        "item_name": "Dojo Logo",
+        "img_preview": "https://fortnite.gg/img/items/6237/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/6237/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Cobra's Curse",
+        "img_preview": "https://fortnite.gg/img/items/6235/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/6235/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Gaffi Stick",
+        "img_preview": "https://fortnite.gg/img/items/6217/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/6217/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Cold'en Touch",
+        "img_preview": "https://fortnite.gg/img/items/6162/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6162/video.mp4?2",
+        "amount": "LEGENDS)"
+    },
+    {
+        "item_name": "Ice Carver",
+        "img_preview": "https://fortnite.gg/img/items/6161/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6161/video.mp4?2",
+        "amount": "LEGENDS)"
+    },
+    {
+        "item_name": "Glacial Slasher",
+        "img_preview": "https://fortnite.gg/img/items/6160/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6160/video.mp4?2",
+        "amount": "LEGENDS)"
+    },
+    {
+        "item_name": "Pincushion Punisher",
+        "img_preview": "https://fortnite.gg/img/items/6163/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6163/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "No Way Homerun Hitter",
+        "img_preview": "https://fortnite.gg/img/items/6185/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6185/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Snowplower",
+        "img_preview": "https://fortnite.gg/img/items/6180/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6180/video.mp4?2",
+        "amount": "2021"
+    },
+    {
+        "item_name": "Holly Hatchets",
+        "img_preview": "https://fortnite.gg/img/items/6179/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/6179/video.mp4?2",
+        "amount": "2021"
+    },
+    {
+        "item_name": "Cymitar",
+        "img_preview": "https://fortnite.gg/img/items/5950/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5950/video.mp4?3",
+        "amount": "#16"
+    },
+    {
+        "item_name": "Abyssal Blade",
+        "img_preview": "https://fortnite.gg/img/items/5951/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5951/video.mp4?3",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Octane Whomper",
+        "img_preview": "https://fortnite.gg/img/items/5902/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/5902/video.mp4?2",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Breaker Mace",
+        "img_preview": "https://fortnite.gg/img/items/6127/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/6127/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Thumper",
+        "img_preview": "https://fortnite.gg/img/items/6126/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/6126/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Butcher Cleaver",
+        "img_preview": "https://fortnite.gg/img/items/6125/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/6125/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Wallopin' Web Hammer",
+        "img_preview": "https://fortnite.gg/img/items/5942/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5942/video.mp4?3",
+        "amount": "10"
+    },
+    {
+        "item_name": "Blade of the Waning Moon",
+        "img_preview": "https://fortnite.gg/img/items/5947/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5947/video.mp4?3",
+        "amount": "(Free)"
+    },
+    {
+        "item_name": "Spikebat",
+        "img_preview": "https://fortnite.gg/img/items/5948/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5948/video.mp4?3",
+        "amount": "8"
+    },
+    {
+        "item_name": "Bronzed Scimitars",
+        "img_preview": "https://fortnite.gg/img/items/5946/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5946/video.mp4?3",
+        "amount": "1"
+    },
+    {
+        "item_name": "Gum Brawler",
+        "img_preview": "https://fortnite.gg/img/items/5945/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5945/video.mp4?3",
+        "amount": "(Free)"
+    },
+    {
+        "item_name": "Wilderspear",
+        "img_preview": "https://fortnite.gg/img/items/5944/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5944/video.mp4?3",
+        "amount": "5"
+    },
+    {
+        "item_name": "Llaminator",
+        "img_preview": "https://fortnite.gg/img/items/5943/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5943/video.mp4?3",
+        "amount": "4"
+    },
+    {
+        "item_name": "Power Pick",
+        "img_preview": "https://fortnite.gg/img/items/5880/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5880/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Cube Edge",
+        "img_preview": "https://fortnite.gg/img/items/5917/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5917/video.mp4?2",
+        "amount": "#13)"
+    },
+    {
+        "item_name": "Dark Splitter",
+        "img_preview": "https://fortnite.gg/img/items/2313/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/2313/video.mp4?2",
+        "amount": "#4"
+    },
+    {
+        "item_name": "Director's Scythe",
+        "img_preview": "https://fortnite.gg/img/items/5922/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5922/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "NanaTech Blade",
+        "img_preview": "https://fortnite.gg/img/items/5879/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5879/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Neural-Scratch Claws",
+        "img_preview": "https://fortnite.gg/img/items/5878/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5878/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Lucky 8's",
+        "img_preview": "https://fortnite.gg/img/items/5877/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5877/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Umbra-Axe",
+        "img_preview": "https://fortnite.gg/img/items/5910/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5910/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Snake Sword",
+        "img_preview": "https://fortnite.gg/img/items/5881/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5881/video.mp4?2",
+        "amount": "Uchiha)"
+    },
+    {
+        "item_name": "Hidan's Scythe",
+        "img_preview": "https://fortnite.gg/img/items/5862/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5862/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Kunai",
+        "img_preview": "https://fortnite.gg/img/items/5864/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5864/video.mp4?3",
+        "amount": "500"
+    },
+    {
+        "item_name": "Black Ops Sword",
+        "img_preview": "https://fortnite.gg/img/items/5863/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5863/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Pow Pow Crusher",
+        "img_preview": "https://fortnite.gg/img/items/5787/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/5787/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Triple Mint Scepter",
+        "img_preview": "https://fortnite.gg/img/items/5650/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/5650/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Freshbreaker",
+        "img_preview": "https://fortnite.gg/img/items/5649/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/5649/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Minty Mountaineer",
+        "img_preview": "https://fortnite.gg/img/items/5648/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/5648/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Chipote Chill\u00f3n",
+        "img_preview": "https://fortnite.gg/img/items/5779/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5779/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Serrated Steelblades",
+        "img_preview": "https://fortnite.gg/img/items/5761/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5761/video.mp4?2",
+        "amount": "#12)"
+    },
+    {
+        "item_name": "Antimatter Pulse",
+        "img_preview": "https://fortnite.gg/img/items/5719/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5719/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Death Metal Scythe",
+        "img_preview": "https://fortnite.gg/img/items/5689/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/5689/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Reality Render",
+        "img_preview": "https://fortnite.gg/img/items/5718/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5718/video.mp4?2",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Drive Shaft",
+        "img_preview": "https://fortnite.gg/img/items/4736/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/4736/video.mp4?2",
+        "amount": "#3"
+    },
+    {
+        "item_name": "Stun Rod",
+        "img_preview": "https://fortnite.gg/img/items/5696/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5696/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "HOT DOGGER",
+        "img_preview": "https://fortnite.gg/img/items/5695/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5695/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Cursed Crescent",
+        "img_preview": "https://fortnite.gg/img/items/5615/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5615/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Ancient Staff",
+        "img_preview": "https://fortnite.gg/img/items/5681/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5681/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Spacefarer Lightscythe",
+        "img_preview": "https://fortnite.gg/img/items/5671/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/5671/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Brokenheart Slicer",
+        "img_preview": "https://fortnite.gg/img/items/5616/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5616/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Maker Hooks",
+        "img_preview": "https://fortnite.gg/img/items/5660/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5660/video.mp4?3",
+        "amount": "800"
+    },
+    {
+        "item_name": "Twinblades",
+        "img_preview": "https://fortnite.gg/img/items/5661/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5661/video.mp4?3",
+        "amount": "500"
+    },
+    {
+        "item_name": "Corrupted Rift Edges",
+        "img_preview": "https://fortnite.gg/img/items/5618/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5618/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Giant Jelly Sourfish",
+        "img_preview": "https://fortnite.gg/img/items/5617/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5617/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Zen Axe",
+        "img_preview": "https://fortnite.gg/img/items/5411/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5411/video.mp4?3",
+        "amount": "Months)"
+    },
+    {
+        "item_name": "Perfect Prop Pickaxe",
+        "img_preview": "https://fortnite.gg/img/items/5620/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5620/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "All-Weather Extractor",
+        "img_preview": "https://fortnite.gg/img/items/5619/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5619/video.mp4?2",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Walker Club",
+        "img_preview": "https://fortnite.gg/img/items/5601/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5601/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "The Axe-Ray",
+        "img_preview": "https://fortnite.gg/img/items/5568/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5568/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Chimeraxes",
+        "img_preview": "https://fortnite.gg/img/items/5569/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5569/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Grave Robber",
+        "img_preview": "https://fortnite.gg/img/items/5595/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5595/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Might & Malice",
+        "img_preview": "https://fortnite.gg/img/items/5570/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5570/video.mp4?2",
+        "amount": "(Ione)"
+    },
+    {
+        "item_name": "Cube Axe",
+        "img_preview": "https://fortnite.gg/img/items/5565/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5565/video.mp4?2",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Mutagen Mace",
+        "img_preview": "https://fortnite.gg/img/items/5588/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5588/video.mp4?2",
+        "amount": "#11)"
+    },
+    {
+        "item_name": "Symbiote Scythe",
+        "img_preview": "https://fortnite.gg/img/items/5545/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/5545/video.mp4?2",
+        "amount": "Brock)"
+    },
+    {
+        "item_name": "Hooplah Hammer",
+        "img_preview": "https://fortnite.gg/img/items/5549/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5549/video.mp4?2",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Speed Sneaker",
+        "img_preview": "https://fortnite.gg/img/items/5529/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5529/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Dark Blessing",
+        "img_preview": "https://fortnite.gg/img/items/5413/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5413/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Janky's Dead Fish",
+        "img_preview": "https://fortnite.gg/img/items/5369/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5369/video.mp4?3",
+        "amount": "800"
+    },
+    {
+        "item_name": "Carnage Cleaver",
+        "img_preview": "https://fortnite.gg/img/items/5497/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/5497/video.mp4?2",
+        "amount": "10"
+    },
+    {
+        "item_name": "Stringles",
+        "img_preview": "https://fortnite.gg/img/items/5502/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5502/video.mp4?3",
+        "amount": "3"
+    },
+    {
+        "item_name": "Solar Slicer",
+        "img_preview": "https://fortnite.gg/img/items/5501/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5501/video.mp4?2",
+        "amount": "(Free)"
+    },
+    {
+        "item_name": "Demonslayer Blade",
+        "img_preview": "https://fortnite.gg/img/items/5500/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5500/video.mp4?2",
+        "amount": "2"
+    },
+    {
+        "item_name": "Torin's Lightblade",
+        "img_preview": "https://fortnite.gg/img/items/5499/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5499/video.mp4?2",
+        "amount": "8"
+    },
+    {
+        "item_name": "The Big Spoon",
+        "img_preview": "https://fortnite.gg/img/items/5496/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5496/video.mp4?2",
+        "amount": "5"
+    },
+    {
+        "item_name": "Kor Flails",
+        "img_preview": "https://fortnite.gg/img/items/5498/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5498/video.mp4?2",
+        "amount": "4"
+    },
+    {
+        "item_name": "Brite Bashers",
+        "img_preview": "https://fortnite.gg/img/items/2257/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/2257/video.mp4?2",
+        "amount": "Blaster)"
+    },
+    {
+        "item_name": "Shadow Slicer",
+        "img_preview": "https://fortnite.gg/img/items/4276/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/4276/video.mp4?2",
+        "amount": "BUNDLE)"
+    },
+    {
+        "item_name": "Pluxarian Floraxe",
+        "img_preview": "https://fortnite.gg/img/items/5412/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5412/video.mp4?2",
+        "amount": "(Bloom)"
+    },
+    {
+        "item_name": "Galaxy Starblades",
+        "img_preview": "https://fortnite.gg/img/items/5348/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5348/video.mp4?2",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Prop Chop",
+        "img_preview": "https://fortnite.gg/img/items/5350/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/5350/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Blades of Brother Hand",
+        "img_preview": "https://fortnite.gg/img/items/5425/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/5425/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Burning Fangs",
+        "img_preview": "https://fortnite.gg/img/items/5371/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5371/video.mp4?2",
+        "amount": "#10)"
+    },
+    {
+        "item_name": "Aquari-Axe",
+        "img_preview": "https://fortnite.gg/img/items/5182/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/5182/video.mp4?2",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Qwerty Axe",
+        "img_preview": "https://fortnite.gg/img/items/5349/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5349/video.mp4?2",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Loose Cannon Cutters",
+        "img_preview": "https://fortnite.gg/img/items/5370/icon.png?20",
+        "item_video": "https://fnggcdn.com/items/5370/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Far Out Vibes",
+        "img_preview": "https://fortnite.gg/img/items/5355/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5355/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Real",
+        "img_preview": "https://fortnite.gg/img/items/5373/icon.png?5",
+        "item_video": "https://fnggcdn.com/items/5373/video.mp4?2",
+        "amount": "Balvin)"
+    },
+    {
+        "item_name": "Vox Mane",
+        "img_preview": "https://fortnite.gg/img/items/5354/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5354/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Vox Fangs",
+        "img_preview": "https://fortnite.gg/img/items/5353/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5353/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Space Snake",
+        "img_preview": "https://fortnite.gg/img/items/5372/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5372/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Athena's Battleaxe",
+        "img_preview": "https://fortnite.gg/img/items/5352/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/5352/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Freezie Friendz",
+        "img_preview": "https://fortnite.gg/img/items/5255/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5255/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "The Godslayer",
+        "img_preview": "https://fortnite.gg/img/items/5307/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/5307/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Guile's Knuckle Buster",
+        "img_preview": "https://fortnite.gg/img/items/5286/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5286/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Delta Red Bowie Blade",
+        "img_preview": "https://fortnite.gg/img/items/5285/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/5285/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "7 Rings Smasher",
+        "img_preview": "https://fortnite.gg/img/items/5298/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/5298/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "A.R.G.U.S. Sabre",
+        "img_preview": "https://fortnite.gg/img/items/5256/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/5256/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Dauntless Driver",
+        "img_preview": "https://fortnite.gg/img/items/5187/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5187/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Epic Sword of Might",
+        "img_preview": "https://fortnite.gg/img/items/5229/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5229/video.mp4?2",
+        "amount": "#9)"
+    },
+    {
+        "item_name": "Orbital Abductor",
+        "img_preview": "https://fortnite.gg/img/items/5183/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5183/video.mp4?2",
+        "amount": "1,000"
+    },
+    {
+        "item_name": "Holoslash",
+        "img_preview": "https://fortnite.gg/img/items/5185/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5185/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Futureproof Flail",
+        "img_preview": "https://fortnite.gg/img/items/5184/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5184/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Stellapen Smashpack",
+        "img_preview": "https://fortnite.gg/img/items/5181/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5181/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Bugha Blades",
+        "img_preview": "https://fortnite.gg/img/items/5186/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/5186/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "The Lion",
+        "img_preview": "https://fortnite.gg/img/items/5154/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/5154/video.mp4?2",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Batarang Axe",
+        "img_preview": "https://fortnite.gg/img/items/5094/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/5094/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Sparklaxe",
+        "img_preview": "https://fortnite.gg/img/items/5099/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5099/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Rainbow Carver",
+        "img_preview": "https://fortnite.gg/img/items/5096/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5096/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Loki's Scepter",
+        "img_preview": "https://fortnite.gg/img/items/5148/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/5148/video.mp4?2",
+        "amount": "#8)"
+    },
+    {
+        "item_name": "Sandy Shoveler",
+        "img_preview": "https://fortnite.gg/img/items/5097/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5097/video.mp4?2",
+        "amount": "Brutus)"
+    },
+    {
+        "item_name": "Aqua Lug",
+        "img_preview": "https://fortnite.gg/img/items/5098/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5098/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Hot Rod Ripper",
+        "img_preview": "https://fortnite.gg/img/items/5092/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5092/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Gilded Shadow",
+        "img_preview": "https://fortnite.gg/img/items/5093/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5093/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Marshmallets",
+        "img_preview": "https://fortnite.gg/img/items/5095/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5095/video.mp4?2",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Lok Pick",
+        "img_preview": "https://fortnite.gg/img/items/4916/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/4916/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Rebel Slice",
+        "img_preview": "https://fortnite.gg/img/items/4917/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/4917/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Prismablade",
+        "img_preview": "https://fortnite.gg/img/items/5047/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5047/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Sledge Heifer",
+        "img_preview": "https://fortnite.gg/img/items/5043/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5043/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Solitude Striker",
+        "img_preview": "https://fortnite.gg/img/items/5031/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/5031/video.mp4?2",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Hammerhead Morty",
+        "img_preview": "https://fortnite.gg/img/items/5050/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5050/video.mp4?2",
+        "amount": "10"
+    },
+    {
+        "item_name": "Zyg's Chainblade",
+        "img_preview": "https://fortnite.gg/img/items/5038/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5038/video.mp4?2",
+        "amount": "7"
+    },
+    {
+        "item_name": "IO Eradicator",
+        "img_preview": "https://fortnite.gg/img/items/5037/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5037/video.mp4?2",
+        "amount": "8"
+    },
+    {
+        "item_name": "The Fret Basher",
+        "img_preview": "https://fortnite.gg/img/items/5027/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5027/video.mp4?2",
+        "amount": "2"
+    },
+    {
+        "item_name": "Kittanas",
+        "img_preview": "https://fortnite.gg/img/items/5033/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5033/video.mp4?2",
+        "amount": "(Free)"
+    },
+    {
+        "item_name": "Chop Chop",
+        "img_preview": "https://fortnite.gg/img/items/5025/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/5025/video.mp4?2",
+        "amount": "4"
+    },
+    {
+        "item_name": "Grim Gouger",
+        "img_preview": "https://fortnite.gg/img/items/4920/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/4920/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Tribute's Flail",
+        "img_preview": "https://fortnite.gg/img/items/4943/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/4943/video.mp4?2",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Spire Shard",
+        "img_preview": "https://fortnite.gg/img/items/4919/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/4919/video.mp4?2",
+        "amount": "1,200"
+    },
+    {
+        "item_name": "Electri-claw",
+        "img_preview": "https://fortnite.gg/img/items/2341/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/2341/video.mp4?2",
+        "amount": "Bundle"
+    },
+    {
+        "item_name": "Vanguard Flame",
+        "img_preview": "https://fortnite.gg/img/items/4918/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/4918/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Deathstroke's Katanas",
+        "img_preview": "https://fortnite.gg/img/items/4927/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/4927/video.mp4?2",
+        "amount": "Zero)"
+    },
+    {
+        "item_name": "Nuzzle Jet",
+        "img_preview": "https://fortnite.gg/img/items/4940/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/4940/video.mp4?2",
+        "amount": "#7)"
+    },
+    {
+        "item_name": "Volcanic Glass Daggers",
+        "img_preview": "https://fortnite.gg/img/items/4935/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/4935/video.mp4?2",
+        "amount": "(Kelsier)"
+    },
+    {
+        "item_name": "Fish Kabob",
+        "img_preview": "https://fortnite.gg/img/items/4739/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/4739/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Catwoman's Grappling Claw",
+        "img_preview": "https://fortnite.gg/img/items/4731/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/4731/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Slitherous Staff",
+        "img_preview": "https://fortnite.gg/img/items/4754/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/4754/video.mp4?2",
+        "amount": "Pack)"
+    },
+    {
+        "item_name": "Crystaline Battle Wand",
+        "img_preview": "https://fortnite.gg/img/items/4734/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/4734/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "BB's Beast Bat",
+        "img_preview": "https://fortnite.gg/img/items/4726/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/4726/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Crossbite Toothaxes",
+        "img_preview": "https://fortnite.gg/img/items/4668/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/4668/video.mp4?2",
+        "amount": "(Gia)"
+    },
+    {
+        "item_name": "Ten-Ton Toon-Bells",
+        "img_preview": "https://fortnite.gg/img/items/4718/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/4718/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Zzarian Slicers",
+        "img_preview": "https://fortnite.gg/img/items/4704/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/4704/video.mp4?2",
+        "amount": "Court)"
+    },
+    {
+        "item_name": "Durrrburgian Battlespatch",
+        "img_preview": "https://fortnite.gg/img/items/4671/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/4671/video.mp4?2",
+        "amount": "Court)"
+    },
+    {
+        "item_name": "Chunky Salsax",
+        "img_preview": "https://fortnite.gg/img/items/4666/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/4666/video.mp4?2",
+        "amount": "Court)"
+    },
+    {
+        "item_name": "Grappling Axe",
+        "img_preview": "https://fortnite.gg/img/items/4709/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/4709/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Piranhas",
+        "img_preview": "https://fortnite.gg/img/items/2517/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/2517/video.mp4?2",
+        "amount": "Mayhem"
+    },
+    {
+        "item_name": "Oathmaker's Axe",
+        "img_preview": "https://fortnite.gg/img/items/4684/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/4684/video.mp4?2",
+        "amount": "500"
+    },
+    {
+        "item_name": "Wing Spanner",
+        "img_preview": "https://fortnite.gg/img/items/4701/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/4701/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Sorrow's Reach",
+        "img_preview": "https://fortnite.gg/img/items/4696/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/4696/video.mp4?2",
+        "amount": "#6)"
+    },
+    {
+        "item_name": "Scarlet Sai",
+        "img_preview": "https://fortnite.gg/img/items/4690/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/4690/video.mp4?3",
+        "amount": "600"
+    },
+    {
+        "item_name": "Jaguar Strike",
+        "img_preview": "https://fortnite.gg/img/items/4679/icon.png?3",
+        "item_video": "https://fnggcdn.com/items/4679/video.mp4?2",
+        "amount": "Challenges"
+    },
+    {
+        "item_name": "Grafitaxe",
+        "img_preview": "https://fortnite.gg/img/items/4632/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/4632/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Devourer's Bane",
+        "img_preview": "https://fortnite.gg/img/items/4631/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/4631/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Water Wand",
+        "img_preview": "https://fortnite.gg/img/items/4633/icon.png?2",
+        "item_video": "https://fnggcdn.com/items/4633/video.mp4?2",
+        "amount": "800"
+    },
+    {
+        "item_name": "Aloy's Spear",
+        "img_preview": "https://fortnite.gg/img/items/4649/icon.png?4",
+        "item_video": "https://fnggcdn.com/items/4649/video.mp4?2",
+        "amount": "800"
+    }
+]
